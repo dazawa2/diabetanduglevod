@@ -1,0 +1,490 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA03BD1021C7AE2E002343F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD0F21C7AE2E002343F9 /* AppDelegate.swift */; };
+		FA03BD1221C7AE2E002343F9 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD1121C7AE2E002343F9 /* FirstViewController.swift */; };
+		FA03BD1421C7AE2E002343F9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD1321C7AE2E002343F9 /* SecondViewController.swift */; };
+		FA03BD1721C7AE2E002343F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA03BD1521C7AE2E002343F9 /* Main.storyboard */; };
+		FA03BD1921C7AE2F002343F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA03BD1821C7AE2F002343F9 /* Assets.xcassets */; };
+		FA03BD1C21C7AE2F002343F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA03BD1A21C7AE2F002343F9 /* LaunchScreen.storyboard */; };
+		FA03BD3221C7B3E7002343F9 /* CornTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2921C7B3E5002343F9 /* CornTableViewController.swift */; };
+		FA03BD3321C7B3E7002343F9 /* VegTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2A21C7B3E5002343F9 /* VegTableViewController.swift */; };
+		FA03BD3421C7B3E7002343F9 /* AlcoholTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2B21C7B3E5002343F9 /* AlcoholTableViewController.swift */; };
+		FA03BD3521C7B3E7002343F9 /* ConfTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2C21C7B3E5002343F9 /* ConfTableViewController.swift */; };
+		FA03BD3621C7B3E7002343F9 /* JuceTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2D21C7B3E6002343F9 /* JuceTableViewController.swift */; };
+		FA03BD3721C7B3E7002343F9 /* FruitsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2E21C7B3E6002343F9 /* FruitsTableViewController.swift */; };
+		FA03BD3821C7B3E7002343F9 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD2F21C7B3E6002343F9 /* RoundButton.swift */; };
+		FA03BD3921C7B3E7002343F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3021C7B3E6002343F9 /* ViewController.swift */; };
+		FA03BD3A21C7B3E7002343F9 /* NutsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3121C7B3E6002343F9 /* NutsTableViewController.swift */; };
+		FA03BD4121C7B3F7002343F9 /* CaloriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3B21C7B3F6002343F9 /* CaloriesViewController.swift */; };
+		FA03BD4221C7B3F7002343F9 /* NonsugarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3C21C7B3F6002343F9 /* NonsugarViewController.swift */; };
+		FA03BD4321C7B3F7002343F9 /* BreadTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3D21C7B3F6002343F9 /* BreadTableViewController.swift */; };
+		FA03BD4421C7B3F7002343F9 /* MilkTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3E21C7B3F6002343F9 /* MilkTableViewController.swift */; };
+		FA03BD4521C7B3F7002343F9 /* FoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD3F21C7B3F6002343F9 /* FoodTableViewController.swift */; };
+		FA03BD4621C7B3F7002343F9 /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03BD4021C7B3F6002343F9 /* FavoritesViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FA03BD5421C7B427002343F9 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D82404A7220839E8001057F3 /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "pt-PT"; path = "pt-PT.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		D83B245F22107CFB00CF42AE /* uk-UA */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "uk-UA"; path = "uk-UA.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		FA03BD0C21C7AE2E002343F9 /* diabetanduglevod.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = diabetanduglevod.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA03BD0F21C7AE2E002343F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FA03BD1121C7AE2E002343F9 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		FA03BD1321C7AE2E002343F9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		FA03BD1821C7AE2F002343F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA03BD1D21C7AE2F002343F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA03BD2521C7AEA8002343F9 /* de */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = de; path = de.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA03BD2621C7AEB0002343F9 /* fr */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = fr; path = fr.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA03BD2721C7AEB9002343F9 /* es */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = es; path = es.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA03BD2821C7AEC6002343F9 /* ru */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = ru; path = ru.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA03BD2921C7B3E5002343F9 /* CornTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CornTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD2A21C7B3E5002343F9 /* VegTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VegTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD2B21C7B3E5002343F9 /* AlcoholTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlcoholTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD2C21C7B3E5002343F9 /* ConfTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD2D21C7B3E6002343F9 /* JuceTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuceTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD2E21C7B3E6002343F9 /* FruitsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FruitsTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD2F21C7B3E6002343F9 /* RoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		FA03BD3021C7B3E6002343F9 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FA03BD3121C7B3E6002343F9 /* NutsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NutsTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD3B21C7B3F6002343F9 /* CaloriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaloriesViewController.swift; sourceTree = "<group>"; };
+		FA03BD3C21C7B3F6002343F9 /* NonsugarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NonsugarViewController.swift; sourceTree = "<group>"; };
+		FA03BD3D21C7B3F6002343F9 /* BreadTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BreadTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD3E21C7B3F6002343F9 /* MilkTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MilkTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD3F21C7B3F6002343F9 /* FoodTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoodTableViewController.swift; sourceTree = "<group>"; };
+		FA03BD4021C7B3F6002343F9 /* FavoritesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
+		FA16C00221D5365600B55760 /* it */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = it; path = it.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA42A5F6251E50E100870D6C /* nl */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = nl; path = nl.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA821C8B2518A61A007C638D /* sk */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = sk; path = sk.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA885B0B250D58010085DDFD /* cs */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = cs; path = cs.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA8C42CA2527ADCD006B99A1 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = sv; path = sv.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FAC7F74725990CAE00001D2A /* fi */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = fi; path = fi.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FACE1CD4250CD9C9009DE80F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FACE1CD5250CD9C9009DE80F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FAE7D45725630255001E212C /* ro */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = ro; path = ro.lproj/Main.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA03BD0921C7AE2E002343F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA03BD0321C7AE2E002343F9 = {
+			isa = PBXGroup;
+			children = (
+				FA03BD0E21C7AE2E002343F9 /* diabetanduglevod */,
+				FA03BD0D21C7AE2E002343F9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FA03BD0D21C7AE2E002343F9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA03BD0C21C7AE2E002343F9 /* diabetanduglevod.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA03BD0E21C7AE2E002343F9 /* diabetanduglevod */ = {
+			isa = PBXGroup;
+			children = (
+				FA03BD3D21C7B3F6002343F9 /* BreadTableViewController.swift */,
+				FA03BD3B21C7B3F6002343F9 /* CaloriesViewController.swift */,
+				FA03BD4021C7B3F6002343F9 /* FavoritesViewController.swift */,
+				FA03BD3F21C7B3F6002343F9 /* FoodTableViewController.swift */,
+				FA03BD3E21C7B3F6002343F9 /* MilkTableViewController.swift */,
+				FA03BD3C21C7B3F6002343F9 /* NonsugarViewController.swift */,
+				FA03BD2B21C7B3E5002343F9 /* AlcoholTableViewController.swift */,
+				FA03BD2C21C7B3E5002343F9 /* ConfTableViewController.swift */,
+				FA03BD2921C7B3E5002343F9 /* CornTableViewController.swift */,
+				FA03BD2E21C7B3E6002343F9 /* FruitsTableViewController.swift */,
+				FA03BD2D21C7B3E6002343F9 /* JuceTableViewController.swift */,
+				FA03BD3121C7B3E6002343F9 /* NutsTableViewController.swift */,
+				FA03BD2F21C7B3E6002343F9 /* RoundButton.swift */,
+				FA03BD2A21C7B3E5002343F9 /* VegTableViewController.swift */,
+				FA03BD3021C7B3E6002343F9 /* ViewController.swift */,
+				FA03BD0F21C7AE2E002343F9 /* AppDelegate.swift */,
+				FA03BD1121C7AE2E002343F9 /* FirstViewController.swift */,
+				FA03BD1321C7AE2E002343F9 /* SecondViewController.swift */,
+				FA03BD1521C7AE2E002343F9 /* Main.storyboard */,
+				FA03BD1821C7AE2F002343F9 /* Assets.xcassets */,
+				FA03BD1A21C7AE2F002343F9 /* LaunchScreen.storyboard */,
+				FA03BD1D21C7AE2F002343F9 /* Info.plist */,
+			);
+			path = diabetanduglevod;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA03BD0B21C7AE2E002343F9 /* diabetanduglevod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA03BD2021C7AE2F002343F9 /* Build configuration list for PBXNativeTarget "diabetanduglevod" */;
+			buildPhases = (
+				FA03BD0821C7AE2E002343F9 /* Sources */,
+				FA03BD0921C7AE2E002343F9 /* Frameworks */,
+				FA03BD0A21C7AE2E002343F9 /* Resources */,
+				FA03BD5421C7B427002343F9 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = diabetanduglevod;
+			productName = diabetanduglevod;
+			productReference = FA03BD0C21C7AE2E002343F9 /* diabetanduglevod.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA03BD0421C7AE2E002343F9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = NO;
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1200;
+				ORGANIZATIONNAME = alexey;
+				TargetAttributes = {
+					FA03BD0B21C7AE2E002343F9 = {
+						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1170;
+					};
+				};
+			};
+			buildConfigurationList = FA03BD0721C7AE2E002343F9 /* Build configuration list for PBXProject "diabetanduglevod" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				de,
+				fr,
+				es,
+				ru,
+				it,
+				"pt-PT",
+				"uk-UA",
+				Base,
+				cs,
+				sk,
+				nl,
+				sv,
+				ro,
+				fi,
+			);
+			mainGroup = FA03BD0321C7AE2E002343F9;
+			productRefGroup = FA03BD0D21C7AE2E002343F9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA03BD0B21C7AE2E002343F9 /* diabetanduglevod */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA03BD0A21C7AE2E002343F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA03BD1C21C7AE2F002343F9 /* LaunchScreen.storyboard in Resources */,
+				FA03BD1921C7AE2F002343F9 /* Assets.xcassets in Resources */,
+				FA03BD1721C7AE2E002343F9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA03BD0821C7AE2E002343F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA03BD3421C7B3E7002343F9 /* AlcoholTableViewController.swift in Sources */,
+				FA03BD4221C7B3F7002343F9 /* NonsugarViewController.swift in Sources */,
+				FA03BD3721C7B3E7002343F9 /* FruitsTableViewController.swift in Sources */,
+				FA03BD4121C7B3F7002343F9 /* CaloriesViewController.swift in Sources */,
+				FA03BD1421C7AE2E002343F9 /* SecondViewController.swift in Sources */,
+				FA03BD3221C7B3E7002343F9 /* CornTableViewController.swift in Sources */,
+				FA03BD3921C7B3E7002343F9 /* ViewController.swift in Sources */,
+				FA03BD3321C7B3E7002343F9 /* VegTableViewController.swift in Sources */,
+				FA03BD4321C7B3F7002343F9 /* BreadTableViewController.swift in Sources */,
+				FA03BD1021C7AE2E002343F9 /* AppDelegate.swift in Sources */,
+				FA03BD4621C7B3F7002343F9 /* FavoritesViewController.swift in Sources */,
+				FA03BD4521C7B3F7002343F9 /* FoodTableViewController.swift in Sources */,
+				FA03BD3821C7B3E7002343F9 /* RoundButton.swift in Sources */,
+				FA03BD1221C7AE2E002343F9 /* FirstViewController.swift in Sources */,
+				FA03BD4421C7B3F7002343F9 /* MilkTableViewController.swift in Sources */,
+				FA03BD3A21C7B3E7002343F9 /* NutsTableViewController.swift in Sources */,
+				FA03BD3621C7B3E7002343F9 /* JuceTableViewController.swift in Sources */,
+				FA03BD3521C7B3E7002343F9 /* ConfTableViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FA03BD1521C7AE2E002343F9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA03BD2521C7AEA8002343F9 /* de */,
+				FA03BD2621C7AEB0002343F9 /* fr */,
+				FA03BD2721C7AEB9002343F9 /* es */,
+				FA03BD2821C7AEC6002343F9 /* ru */,
+				FA16C00221D5365600B55760 /* it */,
+				D82404A7220839E8001057F3 /* pt-PT */,
+				D83B245F22107CFB00CF42AE /* uk-UA */,
+				FACE1CD4250CD9C9009DE80F /* Base */,
+				FA885B0B250D58010085DDFD /* cs */,
+				FA821C8B2518A61A007C638D /* sk */,
+				FA42A5F6251E50E100870D6C /* nl */,
+				FA8C42CA2527ADCD006B99A1 /* sv */,
+				FAE7D45725630255001E212C /* ro */,
+				FAC7F74725990CAE00001D2A /* fi */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FA03BD1A21C7AE2F002343F9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FACE1CD5250CD9C9009DE80F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA03BD1E21C7AE2F002343F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HYG857Z4NU;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FA03BD1F21C7AE2F002343F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HYG857Z4NU;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA03BD2121C7AE2F002343F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = diabetanduglevod/diabetanduglevod.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Distribution";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HYG857Z4NU;
+				INFOPLIST_FILE = diabetanduglevod/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.07;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alexey.diabetanduglevod;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = uglevoddistribution;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = uglevoddistribution;
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		FA03BD2221C7AE2F002343F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = diabetanduglevod/diabetanduglevod.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Distribution";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HYG857Z4NU;
+				INFOPLIST_FILE = diabetanduglevod/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.07;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alexey.diabetanduglevod;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = uglevoddistribution;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = uglevoddistribution;
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA03BD0721C7AE2E002343F9 /* Build configuration list for PBXProject "diabetanduglevod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA03BD1E21C7AE2F002343F9 /* Debug */,
+				FA03BD1F21C7AE2F002343F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA03BD2021C7AE2F002343F9 /* Build configuration list for PBXNativeTarget "diabetanduglevod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA03BD2121C7AE2F002343F9 /* Debug */,
+				FA03BD2221C7AE2F002343F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA03BD0421C7AE2E002343F9 /* Project object */;
+}

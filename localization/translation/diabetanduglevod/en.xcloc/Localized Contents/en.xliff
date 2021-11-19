@@ -1,0 +1,3281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="diabetanduglevod/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="0A0-ER-Bil.text" xml:space="preserve">
+        <source>Damn (big)</source>
+        <target>Damn (big)</target>
+        <note>Class = "UILabel"; text = "Damn (big)"; ObjectID = "0A0-ER-Bil";</note>
+      </trans-unit>
+      <trans-unit id="0Dr-77-hx9.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "0Dr-77-hx9";</note>
+      </trans-unit>
+      <trans-unit id="0IJ-Qo-E2o.text" xml:space="preserve">
+        <source>Eggplant</source>
+        <target>Eggplant</target>
+        <note>Class = "UILabel"; text = "Eggplant"; ObjectID = "0IJ-Qo-E2o";</note>
+      </trans-unit>
+      <trans-unit id="0N1-5c-qAu.headerTitle" xml:space="preserve">
+        <source>FLOUR</source>
+        <target>FLOUR</target>
+        <note>Class = "UITableViewSection"; headerTitle = "FLOUR"; ObjectID = "0N1-5c-qAu";</note>
+      </trans-unit>
+      <trans-unit id="00V-AQ-os5.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "00V-AQ-os5";</note>
+      </trans-unit>
+      <trans-unit id="0WD-cf-jK8.text" xml:space="preserve">
+        <source>Рazel nut</source>
+        <target>Рazel nut</target>
+        <note>Class = "UILabel"; text = "Рazel nut"; ObjectID = "0WD-cf-jK8";</note>
+      </trans-unit>
+      <trans-unit id="0bq-yj-DS0.text" xml:space="preserve">
+        <source>250 ml</source>
+        <target>250 ml</target>
+        <note>Class = "UILabel"; text = "250 ml"; ObjectID = "0bq-yj-DS0";</note>
+      </trans-unit>
+      <trans-unit id="0dC-AN-zya.text" xml:space="preserve">
+        <source>Semi-sweet wine
+white, red</source>
+        <target>Semi-sweet wine
+white, red</target>
+        <note>Class = "UILabel"; text = "Semi-sweet wine\nwhite, red"; ObjectID = "0dC-AN-zya";</note>
+      </trans-unit>
+      <trans-unit id="0mu-OZ-dwB.text" xml:space="preserve">
+        <source>400g</source>
+        <target>400g</target>
+        <note>Class = "UILabel"; text = "400g"; ObjectID = "0mu-OZ-dwB";</note>
+      </trans-unit>
+      <trans-unit id="0ro-V0-fki.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "0ro-V0-fki";</note>
+      </trans-unit>
+      <trans-unit id="0wl-9x-R3c.text" xml:space="preserve">
+        <source>Coconut</source>
+        <target>Coconut</target>
+        <note>Class = "UILabel"; text = "Coconut"; ObjectID = "0wl-9x-R3c";</note>
+      </trans-unit>
+      <trans-unit id="1Bf-KB-5iR.text" xml:space="preserve">
+        <source>Princess</source>
+        <target>Princess</target>
+        <note>Class = "UILabel"; text = "Princess"; ObjectID = "1Bf-KB-5iR";</note>
+      </trans-unit>
+      <trans-unit id="1DQ-l8-PlC.text" xml:space="preserve">
+        <source>170g</source>
+        <target>170g</target>
+        <note>Class = "UILabel"; text = "170g"; ObjectID = "1DQ-l8-PlC";</note>
+      </trans-unit>
+      <trans-unit id="1Ea-bd-qTx.text" xml:space="preserve">
+        <source>110 g</source>
+        <target>110 g</target>
+        <note>Class = "UILabel"; text = "110 g"; ObjectID = "1Ea-bd-qTx";</note>
+      </trans-unit>
+      <trans-unit id="1IB-Br-whW.text" xml:space="preserve">
+        <source>13g</source>
+        <target>13g</target>
+        <note>Class = "UILabel"; text = "13g"; ObjectID = "1IB-Br-whW";</note>
+      </trans-unit>
+      <trans-unit id="1Ky-Oy-ylo.text" xml:space="preserve">
+        <source>Fanta</source>
+        <target>Fanta</target>
+        <note>Class = "UILabel"; text = "Fanta"; ObjectID = "1Ky-Oy-ylo";</note>
+      </trans-unit>
+      <trans-unit id="1UZ-gw-L0c.text" xml:space="preserve">
+        <source>Kozinaki.</source>
+        <target>Kozinaki.</target>
+        <note>Class = "UILabel"; text = "Kozinaki."; ObjectID = "1UZ-gw-L0c";</note>
+      </trans-unit>
+      <trans-unit id="1VW-Z9-dkC.text" xml:space="preserve">
+        <source>Rye flour</source>
+        <target>Rye flour</target>
+        <note>Class = "UILabel"; text = "Rye flour"; ObjectID = "1VW-Z9-dkC";</note>
+      </trans-unit>
+      <trans-unit id="1gB-qh-Nmf.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "1gB-qh-Nmf";</note>
+      </trans-unit>
+      <trans-unit id="2c2-wC-gCG.text" xml:space="preserve">
+        <source>DAIRY</source>
+        <target>DAIRY</target>
+        <note>Class = "UILabel"; text = "DAIRY"; ObjectID = "2c2-wC-gCG";</note>
+      </trans-unit>
+      <trans-unit id="2jg-aX-heO.text" xml:space="preserve">
+        <source>Хлебные палочки</source>
+        <target>Хлебные палочки</target>
+        <note>Class = "UILabel"; text = "Хлебные палочки"; ObjectID = "2jg-aX-heO";</note>
+      </trans-unit>
+      <trans-unit id="2pj-Se-pWQ.text" xml:space="preserve">
+        <source>Elder</source>
+        <target>Elder</target>
+        <note>Class = "UILabel"; text = "Elder"; ObjectID = "2pj-Se-pWQ";</note>
+      </trans-unit>
+      <trans-unit id="2tI-q1-4fT.text" xml:space="preserve">
+        <source>16 g</source>
+        <target>16 g</target>
+        <note>Class = "UILabel"; text = "16 g"; ObjectID = "2tI-q1-4fT";</note>
+      </trans-unit>
+      <trans-unit id="3Nu-L4-xE0.text" xml:space="preserve">
+        <source>14g</source>
+        <target>14g</target>
+        <note>Class = "UILabel"; text = "14g"; ObjectID = "3Nu-L4-xE0";</note>
+      </trans-unit>
+      <trans-unit id="3X4-4k-0iv.text" xml:space="preserve">
+        <source>Pumpkin juice</source>
+        <target>Pumpkin juice</target>
+        <note>Class = "UILabel"; text = "Pumpkin juice"; ObjectID = "3X4-4k-0iv";</note>
+      </trans-unit>
+      <trans-unit id="3YC-SQ-OV0.text" xml:space="preserve">
+        <source>140g</source>
+        <target>140g</target>
+        <note>Class = "UILabel"; text = "140g"; ObjectID = "3YC-SQ-OV0";</note>
+      </trans-unit>
+      <trans-unit id="3aD-Te-g3b.text" xml:space="preserve">
+        <source>60ml</source>
+        <target>60ml</target>
+        <note>Class = "UILabel"; text = "60ml"; ObjectID = "3aD-Te-g3b";</note>
+      </trans-unit>
+      <trans-unit id="03h-aA-z8t.text" xml:space="preserve">
+        <source>30ml</source>
+        <target>30ml</target>
+        <note>Class = "UILabel"; text = "30ml"; ObjectID = "03h-aA-z8t";</note>
+      </trans-unit>
+      <trans-unit id="03l-ip-0OE.text" xml:space="preserve">
+        <source>300g</source>
+        <target>300g</target>
+        <note>Class = "UILabel"; text = "300g"; ObjectID = "03l-ip-0OE";</note>
+      </trans-unit>
+      <trans-unit id="3rF-Fs-LAt.text" xml:space="preserve">
+        <source>Wheat flour second grade</source>
+        <target>Wheat flour second grade</target>
+        <note>Class = "UILabel"; text = "Wheat flour second grade"; ObjectID = "3rF-Fs-LAt";</note>
+      </trans-unit>
+      <trans-unit id="4Gq-C8-0mg.text" xml:space="preserve">
+        <source>Kohlrabi cabbage</source>
+        <target>Kohlrabi cabbage</target>
+        <note>Class = "UILabel"; text = "Kohlrabi cabbage"; ObjectID = "4Gq-C8-0mg";</note>
+      </trans-unit>
+      <trans-unit id="4JX-pt-F3T.text" xml:space="preserve">
+        <source>Papaya</source>
+        <target>Papaya</target>
+        <note>Class = "UILabel"; text = "Papaya"; ObjectID = "4JX-pt-F3T";</note>
+      </trans-unit>
+      <trans-unit id="4Jz-wI-OGD.text" xml:space="preserve">
+        <source>Simple wheels</source>
+        <target>Simple wheels</target>
+        <note>Class = "UILabel"; text = "Simple wheels"; ObjectID = "4Jz-wI-OGD";</note>
+      </trans-unit>
+      <trans-unit id="4K4-eh-oaj.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "4K4-eh-oaj";</note>
+      </trans-unit>
+      <trans-unit id="4RE-At-wti.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "4RE-At-wti";</note>
+      </trans-unit>
+      <trans-unit id="4Rq-Ph-0Bm.text" xml:space="preserve">
+        <source>80ml</source>
+        <target>80ml</target>
+        <note>Class = "UILabel"; text = "80ml"; ObjectID = "4Rq-Ph-0Bm";</note>
+      </trans-unit>
+      <trans-unit id="4bc-AA-26D.text" xml:space="preserve">
+        <source>Red hot pepper</source>
+        <target>Red hot pepper</target>
+        <note>Class = "UILabel"; text = "Red hot pepper"; ObjectID = "4bc-AA-26D";</note>
+      </trans-unit>
+      <trans-unit id="4pv-ju-L2W.text" xml:space="preserve">
+        <source>Crackers with bran</source>
+        <target>Crackers with bran</target>
+        <note>Class = "UILabel"; text = "Crackers with bran"; ObjectID = "4pv-ju-L2W";</note>
+      </trans-unit>
+      <trans-unit id="4ys-GO-Vtb.text" xml:space="preserve">
+        <source>Pearl barley</source>
+        <target>Pearl barley</target>
+        <note>Class = "UILabel"; text = "Pearl barley"; ObjectID = "4ys-GO-Vtb";</note>
+      </trans-unit>
+      <trans-unit id="5A3-qV-IrN.text" xml:space="preserve">
+        <source>Sparkling dry wine,
+(champagne)</source>
+        <target>Sparkling dry wine,
+(champagne)</target>
+        <note>Class = "UILabel"; text = "Sparkling dry wine,\n(champagne)"; ObjectID = "5A3-qV-IrN";</note>
+      </trans-unit>
+      <trans-unit id="5Bu-Ew-xN9.text" xml:space="preserve">
+        <source>Cherry plum</source>
+        <target>Cherry plum</target>
+        <note>Class = "UILabel"; text = "Cherry plum"; ObjectID = "5Bu-Ew-xN9";</note>
+      </trans-unit>
+      <trans-unit id="5Md-VO-Skg.text" xml:space="preserve">
+        <source>Waffles (small)</source>
+        <target>Waffles (small)</target>
+        <note>Class = "UILabel"; text = "Waffles (small)"; ObjectID = "5Md-VO-Skg";</note>
+      </trans-unit>
+      <trans-unit id="5Sv-rK-shn.text" xml:space="preserve">
+        <source>40g</source>
+        <target>40g</target>
+        <note>Class = "UILabel"; text = "40g"; ObjectID = "5Sv-rK-shn";</note>
+      </trans-unit>
+      <trans-unit id="5TI-Dr-Maj.text" xml:space="preserve">
+        <source>70g</source>
+        <target>70g</target>
+        <note>Class = "UILabel"; text = "70g"; ObjectID = "5TI-Dr-Maj";</note>
+      </trans-unit>
+      <trans-unit id="5Us-AJ-ZRa.text" xml:space="preserve">
+        <source>11g</source>
+        <target>11g</target>
+        <note>Class = "UILabel"; text = "11g"; ObjectID = "5Us-AJ-ZRa";</note>
+      </trans-unit>
+      <trans-unit id="5m5-U9-5zs.text" xml:space="preserve">
+        <source>Ice cream, dairy, nut</source>
+        <target>Ice cream, dairy, nut</target>
+        <note>Class = "UILabel"; text = "Ice cream, dairy, nut"; ObjectID = "5m5-U9-5zs";</note>
+      </trans-unit>
+      <trans-unit id="6FM-eB-Sk9.text" xml:space="preserve">
+        <source>Rice groats</source>
+        <target>Rice groats</target>
+        <note>Class = "UILabel"; text = "Rice groats"; ObjectID = "6FM-eB-Sk9";</note>
+      </trans-unit>
+      <trans-unit id="6Ua-ae-EjZ.text" xml:space="preserve">
+        <source>Frozen dumplings</source>
+        <target>Frozen dumplings</target>
+        <note>Class = "UILabel"; text = "Frozen dumplings"; ObjectID = "6Ua-ae-EjZ";</note>
+      </trans-unit>
+      <trans-unit id="6Vu-X6-EJj.text" xml:space="preserve">
+        <source>Rolls any 
+(except rich)</source>
+        <target>Rolls any 
+(except rich)</target>
+        <note>Class = "UILabel"; text = "Rolls any \n(except rich)"; ObjectID = "6Vu-X6-EJj";</note>
+      </trans-unit>
+      <trans-unit id="6sC-Wx-gkw.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "6sC-Wx-gkw";</note>
+      </trans-unit>
+      <trans-unit id="6vA-UQ-pn5.text" xml:space="preserve">
+        <source>CEREALS,FLOUR,PASTA</source>
+        <target>CEREALS,FLOUR,PASTA</target>
+        <note>Class = "UILabel"; text = "CEREALS,FLOUR,PASTA"; ObjectID = "6vA-UQ-pn5";</note>
+      </trans-unit>
+      <trans-unit id="7BP-Yf-pKP.text" xml:space="preserve">
+        <source>Caramel glazed</source>
+        <target>Caramel glazed</target>
+        <note>Class = "UILabel"; text = "Caramel glazed"; ObjectID = "7BP-Yf-pKP";</note>
+      </trans-unit>
+      <trans-unit id="7JH-hu-el2.text" xml:space="preserve">
+        <source>Cucumber</source>
+        <target>Cucumber</target>
+        <note>Class = "UILabel"; text = "Cucumber"; ObjectID = "7JH-hu-el2";</note>
+      </trans-unit>
+      <trans-unit id="7VI-L2-ih6.text" xml:space="preserve">
+        <source>172 g</source>
+        <target>172 g</target>
+        <note>Class = "UILabel"; text = "172 g"; ObjectID = "7VI-L2-ih6";</note>
+      </trans-unit>
+      <trans-unit id="7dK-1q-Q7A.text" xml:space="preserve">
+        <source>Dates</source>
+        <target>Dates</target>
+        <note>Class = "UILabel"; text = "Dates"; ObjectID = "7dK-1q-Q7A";</note>
+      </trans-unit>
+      <trans-unit id="7eg-5F-zgj.text" xml:space="preserve">
+        <source>Elderberry juice</source>
+        <target>Elderberry juice</target>
+        <note>Class = "UILabel"; text = "Elderberry juice"; ObjectID = "7eg-5F-zgj";</note>
+      </trans-unit>
+      <trans-unit id="7lm-2s-cjH.text" xml:space="preserve">
+        <source>30g</source>
+        <target>30g</target>
+        <note>Class = "UILabel"; text = "30g"; ObjectID = "7lm-2s-cjH";</note>
+      </trans-unit>
+      <trans-unit id="7mc-u5-FZC.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "7mc-u5-FZC";</note>
+      </trans-unit>
+      <trans-unit id="8J7-cg-b7B.text" xml:space="preserve">
+        <source>Pasta, premium, egg</source>
+        <target>Pasta, premium, egg</target>
+        <note>Class = "UILabel"; text = "Pasta, premium, egg"; ObjectID = "8J7-cg-b7B";</note>
+      </trans-unit>
+      <trans-unit id="8K5-7s-JQL.text" xml:space="preserve">
+        <source>Hazelnut</source>
+        <target>Hazelnut</target>
+        <note>Class = "UILabel"; text = "Hazelnut"; ObjectID = "8K5-7s-JQL";</note>
+      </trans-unit>
+      <trans-unit id="8TF-9v-ulf.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "8TF-9v-ulf";</note>
+      </trans-unit>
+      <trans-unit id="8Xo-I9-Im8.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "8Xo-I9-Im8";</note>
+      </trans-unit>
+      <trans-unit id="8cK-Eo-gWe.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "8cK-Eo-gWe";</note>
+      </trans-unit>
+      <trans-unit id="8cX-zX-yrM.text" xml:space="preserve">
+        <source>14 g</source>
+        <target>14 g</target>
+        <note>Class = "UILabel"; text = "14 g"; ObjectID = "8cX-zX-yrM";</note>
+      </trans-unit>
+      <trans-unit id="8z4-0Y-yGR.text" xml:space="preserve">
+        <source>70g</source>
+        <target>70g</target>
+        <note>Class = "UILabel"; text = "70g"; ObjectID = "8z4-0Y-yGR";</note>
+      </trans-unit>
+      <trans-unit id="9BL-dg-hGL.text" xml:space="preserve">
+        <source>Plum juice</source>
+        <target>Plum juice</target>
+        <note>Class = "UILabel"; text = "Plum juice"; ObjectID = "9BL-dg-hGL";</note>
+      </trans-unit>
+      <trans-unit id="9EL-s3-gIR.text" xml:space="preserve">
+        <source>300g</source>
+        <target>300g</target>
+        <note>Class = "UILabel"; text = "300g"; ObjectID = "9EL-s3-gIR";</note>
+      </trans-unit>
+      <trans-unit id="9Hq-Fd-W86.text" xml:space="preserve">
+        <source>Cake, Apple pie</source>
+        <target>Cake, Apple pie</target>
+        <note>Class = "UILabel"; text = "Cake, Apple pie"; ObjectID = "9Hq-Fd-W86";</note>
+      </trans-unit>
+      <trans-unit id="9Si-yB-iHB.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "9Si-yB-iHB";</note>
+      </trans-unit>
+      <trans-unit id="9UK-kJ-JqX.text" xml:space="preserve">
+        <source>Banana</source>
+        <target>Banana</target>
+        <note>Class = "UILabel"; text = "Banana"; ObjectID = "9UK-kJ-JqX";</note>
+      </trans-unit>
+      <trans-unit id="9VE-kY-0ev.text" xml:space="preserve">
+        <source>Grapes</source>
+        <target>Grapes</target>
+        <note>Class = "UILabel"; text = "Grapes"; ObjectID = "9VE-kY-0ev";</note>
+      </trans-unit>
+      <trans-unit id="9ZN-6h-X3v.text" xml:space="preserve">
+        <source>Celery juice</source>
+        <target>Celery juice</target>
+        <note>Class = "UILabel"; text = "Celery juice"; ObjectID = "9ZN-6h-X3v";</note>
+      </trans-unit>
+      <trans-unit id="9Zu-cq-JsC.text" xml:space="preserve">
+        <source>140ml</source>
+        <target>140ml</target>
+        <note>Class = "UILabel"; text = "140ml"; ObjectID = "9Zu-cq-JsC";</note>
+      </trans-unit>
+      <trans-unit id="9ej-bs-sLN.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "9ej-bs-sLN";</note>
+      </trans-unit>
+      <trans-unit id="9kC-GJ-JPv.text" xml:space="preserve">
+        <source>280ml</source>
+        <target>280ml</target>
+        <note>Class = "UILabel"; text = "280ml"; ObjectID = "9kC-GJ-JPv";</note>
+      </trans-unit>
+      <trans-unit id="9n1-XI-Kpq.text" xml:space="preserve">
+        <source>Jerusalem artichoke</source>
+        <target>Jerusalem artichoke</target>
+        <note>Class = "UILabel"; text = "Jerusalem artichoke"; ObjectID = "9n1-XI-Kpq";</note>
+      </trans-unit>
+      <trans-unit id="21f-tQ-Qpt.text" xml:space="preserve">
+        <source>400g</source>
+        <target>400g</target>
+        <note>Class = "UILabel"; text = "400g"; ObjectID = "21f-tQ-Qpt";</note>
+      </trans-unit>
+      <trans-unit id="23T-mR-gfx.text" xml:space="preserve">
+        <source>Walnut</source>
+        <target>Walnut</target>
+        <note>Class = "UILabel"; text = "Walnut"; ObjectID = "23T-mR-gfx";</note>
+      </trans-unit>
+      <trans-unit id="31n-z7-Q8q.text" xml:space="preserve">
+        <source>150 g</source>
+        <target>150 g</target>
+        <note>Class = "UILabel"; text = "150 g"; ObjectID = "31n-z7-Q8q";</note>
+      </trans-unit>
+      <trans-unit id="38X-Kh-F03.text" xml:space="preserve">
+        <source>Hercules groats *</source>
+        <target>Hercules groats *</target>
+        <note>Class = "UILabel"; text = "Hercules groats *"; ObjectID = "38X-Kh-F03";</note>
+      </trans-unit>
+      <trans-unit id="43a-7v-u1W.headerTitle" xml:space="preserve">
+        <source>VEGETABLES</source>
+        <target>VEGETABLES</target>
+        <note>Class = "UITableViewSection"; headerTitle = "VEGETABLES"; ObjectID = "43a-7v-u1W";</note>
+      </trans-unit>
+      <trans-unit id="45p-BU-MAX.text" xml:space="preserve">
+        <source>Chocolate glazed 
+marshmallow</source>
+        <target>Chocolate glazed 
+marshmallow</target>
+        <note>Class = "UILabel"; text = "Chocolate glazed \nmarshmallow"; ObjectID = "45p-BU-MAX";</note>
+      </trans-unit>
+      <trans-unit id="52A-A2-acZ.text" xml:space="preserve">
+        <source>Creme Brulee Ice Cream</source>
+        <target>Creme Brulee Ice Cream</target>
+        <note>Class = "UILabel"; text = "Creme Brulee Ice Cream"; ObjectID = "52A-A2-acZ";</note>
+      </trans-unit>
+      <trans-unit id="66U-uq-fMD.headerTitle" xml:space="preserve">
+        <source>DAIRY</source>
+        <target>DAIRY</target>
+        <note>Class = "UITableViewSection"; headerTitle = "DAIRY"; ObjectID = "66U-uq-fMD";</note>
+      </trans-unit>
+      <trans-unit id="081-3F-drN.text" xml:space="preserve">
+        <source>Bagel for tea</source>
+        <target>Bagel for tea</target>
+        <note>Class = "UILabel"; text = "Bagel for tea"; ObjectID = "081-3F-drN";</note>
+      </trans-unit>
+      <trans-unit id="95D-K6-J3e.text" xml:space="preserve">
+        <source>17 g</source>
+        <target>17 g</target>
+        <note>Class = "UILabel"; text = "17 g"; ObjectID = "95D-K6-J3e";</note>
+      </trans-unit>
+      <trans-unit id="97f-ha-K9p.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "97f-ha-K9p";</note>
+      </trans-unit>
+      <trans-unit id="168-7N-Jih.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "168-7N-Jih";</note>
+      </trans-unit>
+      <trans-unit id="239-Ec-2lN.text" xml:space="preserve">
+        <source>Koumiss 
+from mare's milk</source>
+        <target>Koumiss 
+from mare's milk</target>
+        <note>Class = "UILabel"; text = "Koumiss \nfrom mare's milk"; ObjectID = "239-Ec-2lN";</note>
+      </trans-unit>
+      <trans-unit id="503-kZ-r5T.text" xml:space="preserve">
+        <source>Artichokes</source>
+        <target>Artichokes</target>
+        <note>Class = "UILabel"; text = "Artichokes"; ObjectID = "503-kZ-r5T";</note>
+      </trans-unit>
+      <trans-unit id="504-T3-6Sv.title" xml:space="preserve">
+        <source>guide</source>
+        <target>guide</target>
+        <note>Class = "UITabBarItem"; title = "guide"; ObjectID = "504-T3-6Sv";</note>
+      </trans-unit>
+      <trans-unit id="946-Ah-E1Q.text" xml:space="preserve">
+        <source>13g</source>
+        <target>13g</target>
+        <note>Class = "UILabel"; text = "13g"; ObjectID = "946-Ah-E1Q";</note>
+      </trans-unit>
+      <trans-unit id="A2f-i4-me6.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydrates</source>
+        <target>1BU=10-12g of carbohydrates</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydrates"; ObjectID = "A2f-i4-me6";</note>
+      </trans-unit>
+      <trans-unit id="A5h-DU-Bhh.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "A5h-DU-Bhh";</note>
+      </trans-unit>
+      <trans-unit id="A48-wU-Ref.footerTitle" xml:space="preserve">
+        <source>So: You should avoid drinking alcoholic beverages with a high sugar content,such as liqueurs, sweet champagne and sweet (fruit) wine.</source>
+        <target>So: You should avoid drinking alcoholic beverages with a high sugar content,such as liqueurs, sweet champagne and sweet (fruit) wine.</target>
+        <note>Class = "UITableViewSection"; footerTitle = "So: You should avoid drinking alcoholic beverages with a high sugar content,such as liqueurs, sweet champagne and sweet (fruit) wine."; ObjectID = "A48-wU-Ref";</note>
+      </trans-unit>
+      <trans-unit id="A48-wU-Ref.headerTitle" xml:space="preserve">
+        <source>ALCOHOL</source>
+        <target>ALCOHOL</target>
+        <note>Class = "UITableViewSection"; headerTitle = "ALCOHOL"; ObjectID = "A48-wU-Ref";</note>
+      </trans-unit>
+      <trans-unit id="AAd-Bo-S2f.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "AAd-Bo-S2f";</note>
+      </trans-unit>
+      <trans-unit id="ADQ-5I-HXI.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "ADQ-5I-HXI";</note>
+      </trans-unit>
+      <trans-unit id="AJR-fj-TAz.text" xml:space="preserve">
+        <source>Bread hearth 
+from wholemeal flour</source>
+        <target>Bread hearth 
+from wholemeal flour</target>
+        <note>Class = "UILabel"; text = "Bread hearth \nfrom wholemeal flour"; ObjectID = "AJR-fj-TAz";</note>
+      </trans-unit>
+      <trans-unit id="AP2-EH-Lxr.text" xml:space="preserve">
+        <source>Ice cream, dairy, 
+strawberry</source>
+        <target>Ice cream, dairy, 
+strawberry</target>
+        <note>Class = "UILabel"; text = "Ice cream, dairy, \nstrawberry"; ObjectID = "AP2-EH-Lxr";</note>
+      </trans-unit>
+      <trans-unit id="AUV-iT-bQ4.text" xml:space="preserve">
+        <source>Pancakes with 
+cottage cheese</source>
+        <target>Pancakes with 
+cottage cheese</target>
+        <note>Class = "UILabel"; text = "Pancakes with \ncottage cheese"; ObjectID = "AUV-iT-bQ4";</note>
+      </trans-unit>
+      <trans-unit id="AWt-ia-qtV.text" xml:space="preserve">
+        <source>Tomato juice</source>
+        <target>Tomato juice</target>
+        <note>Class = "UILabel"; text = "Tomato juice"; ObjectID = "AWt-ia-qtV";</note>
+      </trans-unit>
+      <trans-unit id="Aoe-wo-AR1.text" xml:space="preserve">
+        <source>250ml</source>
+        <target>250ml</target>
+        <note>Class = "UILabel"; text = "250ml"; ObjectID = "Aoe-wo-AR1";</note>
+      </trans-unit>
+      <trans-unit id="Aqw-8T-Pqb.text" xml:space="preserve">
+        <source>Wheat groats</source>
+        <target>Wheat groats</target>
+        <note>Class = "UILabel"; text = "Wheat groats"; ObjectID = "Aqw-8T-Pqb";</note>
+      </trans-unit>
+      <trans-unit id="Asv-L0-s2K.text" xml:space="preserve">
+        <source>130g</source>
+        <target>130g</target>
+        <note>Class = "UILabel"; text = "130g"; ObjectID = "Asv-L0-s2K";</note>
+      </trans-unit>
+      <trans-unit id="Ax2-od-P4G.headerTitle" xml:space="preserve">
+        <source>BERRIES</source>
+        <target>BERRIES</target>
+        <note>Class = "UITableViewSection"; headerTitle = "BERRIES"; ObjectID = "Ax2-od-P4G";</note>
+      </trans-unit>
+      <trans-unit id="AxF-4W-HFI.text" xml:space="preserve">
+        <source>Хлебные палочки</source>
+        <target>Хлебные палочки</target>
+        <note>Class = "UILabel"; text = "Хлебные палочки"; ObjectID = "AxF-4W-HFI";</note>
+      </trans-unit>
+      <trans-unit id="B7v-QC-WkF.text" xml:space="preserve">
+        <source>200 g</source>
+        <target>200 g</target>
+        <note>Class = "UILabel"; text = "200 g"; ObjectID = "B7v-QC-WkF";</note>
+      </trans-unit>
+      <trans-unit id="BFd-WT-fDH.text" xml:space="preserve">
+        <source>Fruit ice cream</source>
+        <target>Fruit ice cream</target>
+        <note>Class = "UILabel"; text = "Fruit ice cream"; ObjectID = "BFd-WT-fDH";</note>
+      </trans-unit>
+      <trans-unit id="BHl-sa-Ogo.text" xml:space="preserve">
+        <source>49g</source>
+        <target>49g</target>
+        <note>Class = "UILabel"; text = "49g"; ObjectID = "BHl-sa-Ogo";</note>
+      </trans-unit>
+      <trans-unit id="BPM-bB-epd.text" xml:space="preserve">
+        <source>Sea buckthorn</source>
+        <target>Sea buckthorn</target>
+        <note>Class = "UILabel"; text = "Sea buckthorn"; ObjectID = "BPM-bB-epd";</note>
+      </trans-unit>
+      <trans-unit id="BQ1-Nv-oW9.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydrates</source>
+        <target>1BU=10-12g of carbohydrates</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydrates"; ObjectID = "BQ1-Nv-oW9";</note>
+      </trans-unit>
+      <trans-unit id="BU0-s5-cMr.text" xml:space="preserve">
+        <source>Flour-free soy flour</source>
+        <target>Flour-free soy flour</target>
+        <note>Class = "UILabel"; text = "Flour-free soy flour"; ObjectID = "BU0-s5-cMr";</note>
+      </trans-unit>
+      <trans-unit id="Bl3-cj-UtA.text" xml:space="preserve">
+        <source>Breadcrumb</source>
+        <target>Breadcrumb</target>
+        <note>Class = "UILabel"; text = "Breadcrumb"; ObjectID = "Bl3-cj-UtA";</note>
+      </trans-unit>
+      <trans-unit id="BlL-KF-ksJ.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "BlL-KF-ksJ";</note>
+      </trans-unit>
+      <trans-unit id="Br3-SD-uWV.text" xml:space="preserve">
+        <source>Drying is easy</source>
+        <target>Drying is easy</target>
+        <note>Class = "UILabel"; text = "Drying is easy"; ObjectID = "Br3-SD-uWV";</note>
+      </trans-unit>
+      <trans-unit id="BrC-FB-hp5.text" xml:space="preserve">
+        <source>49g</source>
+        <target>49g</target>
+        <note>Class = "UILabel"; text = "49g"; ObjectID = "BrC-FB-hp5";</note>
+      </trans-unit>
+      <trans-unit id="BtA-b2-xQe.text" xml:space="preserve">
+        <source>Absinthe 60%</source>
+        <target>Absinthe 60%</target>
+        <note>Class = "UILabel"; text = "Absinthe 60%"; ObjectID = "BtA-b2-xQe";</note>
+      </trans-unit>
+      <trans-unit id="Btz-9L-oTF.text" xml:space="preserve">
+        <source>17 g</source>
+        <target>17 g</target>
+        <note>Class = "UILabel"; text = "17 g"; ObjectID = "Btz-9L-oTF";</note>
+      </trans-unit>
+      <trans-unit id="Bul-t5-Rx7.text" xml:space="preserve">
+        <source>Watermelon juice</source>
+        <target>Watermelon juice</target>
+        <note>Class = "UILabel"; text = "Watermelon juice"; ObjectID = "Bul-t5-Rx7";</note>
+      </trans-unit>
+      <trans-unit id="C1G-kM-4ty.text" xml:space="preserve">
+        <source>Black currant juice</source>
+        <target>Black currant juice</target>
+        <note>Class = "UILabel"; text = "Black currant juice"; ObjectID = "C1G-kM-4ty";</note>
+      </trans-unit>
+      <trans-unit id="C4Q-gQ-Vpf.text" xml:space="preserve">
+        <source>90g</source>
+        <target>90g</target>
+        <note>Class = "UILabel"; text = "90g"; ObjectID = "C4Q-gQ-Vpf";</note>
+      </trans-unit>
+      <trans-unit id="CQO-E7-eaQ.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "CQO-E7-eaQ";</note>
+      </trans-unit>
+      <trans-unit id="CTX-IS-KwA.text" xml:space="preserve">
+        <source>Bread Palyanitsa</source>
+        <target>Bread Palyanitsa</target>
+        <note>Class = "UILabel"; text = "Bread Palyanitsa"; ObjectID = "CTX-IS-KwA";</note>
+      </trans-unit>
+      <trans-unit id="CZT-VQ-OYH.text" xml:space="preserve">
+        <source>Curd cheese</source>
+        <target>Curd cheese</target>
+        <note>Class = "UILabel"; text = "Curd cheese"; ObjectID = "CZT-VQ-OYH";</note>
+      </trans-unit>
+      <trans-unit id="Cbc-XB-R2b.text" xml:space="preserve">
+        <source>Broccoli</source>
+        <target>Broccoli</target>
+        <note>Class = "UILabel"; text = "Broccoli"; ObjectID = "Cbc-XB-R2b";</note>
+      </trans-unit>
+      <trans-unit id="CjM-ad-Yu7.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "CjM-ad-Yu7";</note>
+      </trans-unit>
+      <trans-unit id="Clt-DH-7Jf.text" xml:space="preserve">
+        <source>400g</source>
+        <target>400g</target>
+        <note>Class = "UILabel"; text = "400g"; ObjectID = "Clt-DH-7Jf";</note>
+      </trans-unit>
+      <trans-unit id="Ctj-O0-E69.headerTitle" xml:space="preserve">
+        <source>BAKERY PRODUCTS</source>
+        <target>BAKERY PRODUCTS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "BAKERY PRODUCTS"; ObjectID = "Ctj-O0-E69";</note>
+      </trans-unit>
+      <trans-unit id="D5s-wL-BjB.text" xml:space="preserve">
+        <source>A pineapple</source>
+        <target>A pineapple</target>
+        <note>Class = "UILabel"; text = "A pineapple"; ObjectID = "D5s-wL-BjB";</note>
+      </trans-unit>
+      <trans-unit id="DDH-n7-ojW.text" xml:space="preserve">
+        <source>Gin</source>
+        <target>Gin</target>
+        <note>Class = "UILabel"; text = "Gin"; ObjectID = "DDH-n7-ojW";</note>
+      </trans-unit>
+      <trans-unit id="DOv-kf-pcF.text" xml:space="preserve">
+        <source>Dried pear</source>
+        <target>Dried pear</target>
+        <note>Class = "UILabel"; text = "Dried pear"; ObjectID = "DOv-kf-pcF";</note>
+      </trans-unit>
+      <trans-unit id="DY7-sA-S0g.text" xml:space="preserve">
+        <source>170g</source>
+        <target>170g</target>
+        <note>Class = "UILabel"; text = "170g"; ObjectID = "DY7-sA-S0g";</note>
+      </trans-unit>
+      <trans-unit id="Db0-7u-Vpu.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "Db0-7u-Vpu";</note>
+      </trans-unit>
+      <trans-unit id="Dix-dV-n7y.text" xml:space="preserve">
+        <source>White cabbage</source>
+        <target>White cabbage</target>
+        <note>Class = "UILabel"; text = "White cabbage"; ObjectID = "Dix-dV-n7y";</note>
+      </trans-unit>
+      <trans-unit id="DkU-EF-xjI.text" xml:space="preserve">
+        <source>16g</source>
+        <target>16g</target>
+        <note>Class = "UILabel"; text = "16g"; ObjectID = "DkU-EF-xjI";</note>
+      </trans-unit>
+      <trans-unit id="DtY-Cx-R5W.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "DtY-Cx-R5W";</note>
+      </trans-unit>
+      <trans-unit id="Du7-7c-vkJ.text" xml:space="preserve">
+        <source>Crackers</source>
+        <target>Crackers</target>
+        <note>Class = "UILabel"; text = "Crackers"; ObjectID = "Du7-7c-vkJ";</note>
+      </trans-unit>
+      <trans-unit id="Dwt-Wm-q2a.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "Dwt-Wm-q2a";</note>
+      </trans-unit>
+      <trans-unit id="E2T-SD-QAS.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "E2T-SD-QAS";</note>
+      </trans-unit>
+      <trans-unit id="E4e-U4-aVm.headerTitle" xml:space="preserve">
+        <source>legumes</source>
+        <target>legumes</target>
+        <note>Class = "UITableViewSection"; headerTitle = "legumes"; ObjectID = "E4e-U4-aVm";</note>
+      </trans-unit>
+      <trans-unit id="ECR-Ns-HyZ.text" xml:space="preserve">
+        <source>Pita</source>
+        <target>Pita</target>
+        <note>Class = "UILabel"; text = "Pita"; ObjectID = "ECR-Ns-HyZ";</note>
+      </trans-unit>
+      <trans-unit id="ERp-Mi-MoY.text" xml:space="preserve">
+        <source>Semolina</source>
+        <target>Semolina</target>
+        <note>Class = "UILabel"; text = "Semolina"; ObjectID = "ERp-Mi-MoY";</note>
+      </trans-unit>
+      <trans-unit id="EXL-Zn-Sbg.headerTitle" xml:space="preserve">
+        <source>ICE CREAM</source>
+        <target>ICE CREAM</target>
+        <note>Class = "UITableViewSection"; headerTitle = "ICE CREAM"; ObjectID = "EXL-Zn-Sbg";</note>
+      </trans-unit>
+      <trans-unit id="EXg-5j-GwU.text" xml:space="preserve">
+        <source>Tomatoes</source>
+        <target>Tomatoes</target>
+        <note>Class = "UILabel"; text = "Tomatoes"; ObjectID = "EXg-5j-GwU";</note>
+      </trans-unit>
+      <trans-unit id="EYq-rf-8WE.text" xml:space="preserve">
+        <source>18 g</source>
+        <target>18 g</target>
+        <note>Class = "UILabel"; text = "18 g"; ObjectID = "EYq-rf-8WE";</note>
+      </trans-unit>
+      <trans-unit id="Eam-ep-9OX.text" xml:space="preserve">
+        <source>Milk bread</source>
+        <target>Milk bread</target>
+        <note>Class = "UILabel"; text = "Milk bread"; ObjectID = "Eam-ep-9OX";</note>
+      </trans-unit>
+      <trans-unit id="ElK-X7-aYM.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "ElK-X7-aYM";</note>
+      </trans-unit>
+      <trans-unit id="Eqe-Tv-5is.text" xml:space="preserve">
+        <source>85ml</source>
+        <target>85ml</target>
+        <note>Class = "UILabel"; text = "85ml"; ObjectID = "Eqe-Tv-5is";</note>
+      </trans-unit>
+      <trans-unit id="Et1-rO-ByY.text" xml:space="preserve">
+        <source>Chokeberry juice</source>
+        <target>Chokeberry juice</target>
+        <note>Class = "UILabel"; text = "Chokeberry juice"; ObjectID = "Et1-rO-ByY";</note>
+      </trans-unit>
+      <trans-unit id="F9Z-ft-xyE.text" xml:space="preserve">
+        <source>Lemon juice</source>
+        <target>Lemon juice</target>
+        <note>Class = "UILabel"; text = "Lemon juice"; ObjectID = "F9Z-ft-xyE";</note>
+      </trans-unit>
+      <trans-unit id="FGz-OE-5do.text" xml:space="preserve">
+        <source>90 g</source>
+        <target>90 g</target>
+        <note>Class = "UILabel"; text = "90 g"; ObjectID = "FGz-OE-5do";</note>
+      </trans-unit>
+      <trans-unit id="FI4-Wk-b6i.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "FI4-Wk-b6i";</note>
+      </trans-unit>
+      <trans-unit id="FLQ-W7-4XI.text" xml:space="preserve">
+        <source>170g</source>
+        <target>170g</target>
+        <note>Class = "UILabel"; text = "170g"; ObjectID = "FLQ-W7-4XI";</note>
+      </trans-unit>
+      <trans-unit id="FMk-W1-ASW.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "FMk-W1-ASW";</note>
+      </trans-unit>
+      <trans-unit id="FRE-Mg-xGB.text" xml:space="preserve">
+        <source>18 g</source>
+        <target>18 g</target>
+        <note>Class = "UILabel"; text = "18 g"; ObjectID = "FRE-Mg-xGB";</note>
+      </trans-unit>
+      <trans-unit id="FUy-Tl-ch7.text" xml:space="preserve">
+        <source>12g</source>
+        <target>12g</target>
+        <note>Class = "UILabel"; text = "12g"; ObjectID = "FUy-Tl-ch7";</note>
+      </trans-unit>
+      <trans-unit id="FgD-qH-tL7.text" xml:space="preserve">
+        <source>350ml</source>
+        <target>350ml</target>
+        <note>Class = "UILabel"; text = "350ml"; ObjectID = "FgD-qH-tL7";</note>
+      </trans-unit>
+      <trans-unit id="FjE-jM-L8y.text" xml:space="preserve">
+        <source>12g</source>
+        <target>12g</target>
+        <note>Class = "UILabel"; text = "12g"; ObjectID = "FjE-jM-L8y";</note>
+      </trans-unit>
+      <trans-unit id="FuN-Nj-di4.text" xml:space="preserve">
+        <source>Gooseberry</source>
+        <target>Gooseberry</target>
+        <note>Class = "UILabel"; text = "Gooseberry"; ObjectID = "FuN-Nj-di4";</note>
+      </trans-unit>
+      <trans-unit id="G8R-0i-QR6.text" xml:space="preserve">
+        <source>BAKERY PRODUCTS</source>
+        <target>BAKERY PRODUCTS</target>
+        <note>Class = "UILabel"; text = "BAKERY PRODUCTS"; ObjectID = "G8R-0i-QR6";</note>
+      </trans-unit>
+      <trans-unit id="G8o-81-C66.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "G8o-81-C66";</note>
+      </trans-unit>
+      <trans-unit id="GAz-o0-eGv.text" xml:space="preserve">
+        <source>condensed 
+milk with sugar</source>
+        <target>condensed 
+milk with sugar</target>
+        <note>Class = "UILabel"; text = "condensed \nmilk with sugar"; ObjectID = "GAz-o0-eGv";</note>
+      </trans-unit>
+      <trans-unit id="GMz-TJ-tbn.text" xml:space="preserve">
+        <source>Savoy Cabbage</source>
+        <target>Savoy Cabbage</target>
+        <note>Class = "UILabel"; text = "Savoy Cabbage"; ObjectID = "GMz-TJ-tbn";</note>
+      </trans-unit>
+      <trans-unit id="GNI-oj-JDb.text" xml:space="preserve">
+        <source>150ml</source>
+        <target>150ml</target>
+        <note>Class = "UILabel"; text = "150ml"; ObjectID = "GNI-oj-JDb";</note>
+      </trans-unit>
+      <trans-unit id="GOV-oS-gr8.text" xml:space="preserve">
+        <source>Dry white wine, red</source>
+        <target>Dry white wine, red</target>
+        <note>Class = "UILabel"; text = "Dry white wine, red"; ObjectID = "GOV-oS-gr8";</note>
+      </trans-unit>
+      <trans-unit id="GSj-FI-JhU.text" xml:space="preserve">
+        <source>Riga Bread</source>
+        <target>Riga Bread</target>
+        <note>Class = "UILabel"; text = "Riga Bread"; ObjectID = "GSj-FI-JhU";</note>
+      </trans-unit>
+      <trans-unit id="GbN-ax-mLt.text" xml:space="preserve">
+        <source>Bird cherry</source>
+        <target>Bird cherry</target>
+        <note>Class = "UILabel"; text = "Bird cherry"; ObjectID = "GbN-ax-mLt";</note>
+      </trans-unit>
+      <trans-unit id="Gx6-Ke-5Xo.text" xml:space="preserve">
+        <source>30g</source>
+        <target>30g</target>
+        <note>Class = "UILabel"; text = "30g"; ObjectID = "Gx6-Ke-5Xo";</note>
+      </trans-unit>
+      <trans-unit id="HCP-DG-7Fo.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "HCP-DG-7Fo";</note>
+      </trans-unit>
+      <trans-unit id="HMn-32-pGE.text" xml:space="preserve">
+        <source>108g</source>
+        <target>108g</target>
+        <note>Class = "UILabel"; text = "108g"; ObjectID = "HMn-32-pGE";</note>
+      </trans-unit>
+      <trans-unit id="HQd-GA-cQQ.text" xml:space="preserve">
+        <source>200ml</source>
+        <target>200ml</target>
+        <note>Class = "UILabel"; text = "200ml"; ObjectID = "HQd-GA-cQQ";</note>
+      </trans-unit>
+      <trans-unit id="HgD-lY-RGr.text" xml:space="preserve">
+        <source>120g</source>
+        <target>120g</target>
+        <note>Class = "UILabel"; text = "120g"; ObjectID = "HgD-lY-RGr";</note>
+      </trans-unit>
+      <trans-unit id="Hjw-CD-ZOX.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydraytes</source>
+        <target>1BU=10-12g of carbohydraytes</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydraytes"; ObjectID = "Hjw-CD-ZOX";</note>
+      </trans-unit>
+      <trans-unit id="Hkd-0F-AtZ.text" xml:space="preserve">
+        <source>Raspberries</source>
+        <target>Raspberries</target>
+        <note>Class = "UILabel"; text = "Raspberries"; ObjectID = "Hkd-0F-AtZ";</note>
+      </trans-unit>
+      <trans-unit id="Htf-xf-1ec.text" xml:space="preserve">
+        <source>85g</source>
+        <target>85g</target>
+        <note>Class = "UILabel"; text = "85g"; ObjectID = "Htf-xf-1ec";</note>
+      </trans-unit>
+      <trans-unit id="HwA-Kq-8rA.text" xml:space="preserve">
+        <source>90ml</source>
+        <target>90ml</target>
+        <note>Class = "UILabel"; text = "90ml"; ObjectID = "HwA-Kq-8rA";</note>
+      </trans-unit>
+      <trans-unit id="I9K-dr-TAw.text" xml:space="preserve">
+        <source>High-calorie bun</source>
+        <target>High-calorie bun</target>
+        <note>Class = "UILabel"; text = "High-calorie bun"; ObjectID = "I9K-dr-TAw";</note>
+      </trans-unit>
+      <trans-unit id="IJz-d7-Wmp.text" xml:space="preserve">
+        <source>Carrot juice</source>
+        <target>Carrot juice</target>
+        <note>Class = "UILabel"; text = "Carrot juice"; ObjectID = "IJz-d7-Wmp";</note>
+      </trans-unit>
+      <trans-unit id="IMN-hG-UIs.text" xml:space="preserve">
+        <source>Cucumber, ground</source>
+        <target>Cucumber, ground</target>
+        <note>Class = "UILabel"; text = "Cucumber, ground"; ObjectID = "IMN-hG-UIs";</note>
+      </trans-unit>
+      <trans-unit id="INQ-Yg-dD5.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "INQ-Yg-dD5";</note>
+      </trans-unit>
+      <trans-unit id="IOU-Dn-1zT.text" xml:space="preserve">
+        <source>Kefir</source>
+        <target>Kefir</target>
+        <note>Class = "UILabel"; text = "Kefir"; ObjectID = "IOU-Dn-1zT";</note>
+      </trans-unit>
+      <trans-unit id="IQA-4g-IJD.text" xml:space="preserve">
+        <source>130g</source>
+        <target>130g</target>
+        <note>Class = "UILabel"; text = "130g"; ObjectID = "IQA-4g-IJD";</note>
+      </trans-unit>
+      <trans-unit id="ISk-HR-vhc.text" xml:space="preserve">
+        <source>54g</source>
+        <target>54g</target>
+        <note>Class = "UILabel"; text = "54g"; ObjectID = "ISk-HR-vhc";</note>
+      </trans-unit>
+      <trans-unit id="ISu-gY-wqw.text" xml:space="preserve">
+        <source>Sried peach</source>
+        <target>Sried peach</target>
+        <note>Class = "UILabel"; text = "Sried peach"; ObjectID = "ISu-gY-wqw";</note>
+      </trans-unit>
+      <trans-unit id="Ihz-A9-3Fj.text" xml:space="preserve">
+        <source>A loaf of sliced</source>
+        <target>A loaf of sliced</target>
+        <note>Class = "UILabel"; text = "A loaf of sliced"; ObjectID = "Ihz-A9-3Fj";</note>
+      </trans-unit>
+      <trans-unit id="Iph-rh-VSW.text" xml:space="preserve">
+        <source>VEGETABLES,BEANS</source>
+        <target>VEGETABLES,BEANS</target>
+        <note>Class = "UILabel"; text = "VEGETABLES,BEANS"; ObjectID = "Iph-rh-VSW";</note>
+      </trans-unit>
+      <trans-unit id="IyF-UC-a3x.text" xml:space="preserve">
+        <source>7up</source>
+        <target>7up</target>
+        <note>Class = "UILabel"; text = "7up"; ObjectID = "IyF-UC-a3x";</note>
+      </trans-unit>
+      <trans-unit id="J7s-cg-qub.title" xml:space="preserve">
+        <source>GUIDE</source>
+        <target>GUIDE</target>
+        <note>Class = "UINavigationItem"; title = "GUIDE"; ObjectID = "J7s-cg-qub";</note>
+      </trans-unit>
+      <trans-unit id="JLG-YU-Xv7.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "JLG-YU-Xv7";</note>
+      </trans-unit>
+      <trans-unit id="JMT-4h-375.text" xml:space="preserve">
+        <source>Custard rolls with cream</source>
+        <target>Custard rolls with cream</target>
+        <note>Class = "UILabel"; text = "Custard rolls with cream"; ObjectID = "JMT-4h-375";</note>
+      </trans-unit>
+      <trans-unit id="JQ3-NF-1p6.text" xml:space="preserve">
+        <source>Bread ciabatta</source>
+        <target>Bread ciabatta</target>
+        <note>Class = "UILabel"; text = "Bread ciabatta"; ObjectID = "JQ3-NF-1p6";</note>
+      </trans-unit>
+      <trans-unit id="JVb-5G-d97.text" xml:space="preserve">
+        <source>250ml</source>
+        <target>250ml</target>
+        <note>Class = "UILabel"; text = "250ml"; ObjectID = "JVb-5G-d97";</note>
+      </trans-unit>
+      <trans-unit id="Jdf-a4-l5O.text" xml:space="preserve">
+        <source>11g</source>
+        <target>11g</target>
+        <note>Class = "UILabel"; text = "11g"; ObjectID = "Jdf-a4-l5O";</note>
+      </trans-unit>
+      <trans-unit id="JjH-RB-C1e.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydrates</source>
+        <target>1BU=10-12g of carbohydrates</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydrates"; ObjectID = "JjH-RB-C1e";</note>
+      </trans-unit>
+      <trans-unit id="Jt4-AP-biQ.text" xml:space="preserve">
+        <source>Soft diet cottage cheese</source>
+        <target>Soft diet cottage cheese</target>
+        <note>Class = "UILabel"; text = "Soft diet cottage cheese"; ObjectID = "Jt4-AP-biQ";</note>
+      </trans-unit>
+      <trans-unit id="Jty-ND-QRJ.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "Jty-ND-QRJ";</note>
+      </trans-unit>
+      <trans-unit id="JwA-e5-WRu.text" xml:space="preserve">
+        <source>Wine champagne
+semi-dry</source>
+        <target>Wine champagne
+semi-dry</target>
+        <note>Class = "UILabel"; text = "Wine champagne\nsemi-dry"; ObjectID = "JwA-e5-WRu";</note>
+      </trans-unit>
+      <trans-unit id="JzP-j7-O2b.text" xml:space="preserve">
+        <source>86mll</source>
+        <target>86mll</target>
+        <note>Class = "UILabel"; text = "86mll"; ObjectID = "JzP-j7-O2b";</note>
+      </trans-unit>
+      <trans-unit id="K8S-DU-rbi.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "K8S-DU-rbi";</note>
+      </trans-unit>
+      <trans-unit id="KTE-4y-C0y.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "KTE-4y-C0y";</note>
+      </trans-unit>
+      <trans-unit id="Kai-vf-YX8.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "Kai-vf-YX8";</note>
+      </trans-unit>
+      <trans-unit id="Keg-zB-5pM.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "Keg-zB-5pM";</note>
+      </trans-unit>
+      <trans-unit id="KjE-8x-Y9Y.text" xml:space="preserve">
+        <source>Yaroslavl bun</source>
+        <target>Yaroslavl bun</target>
+        <note>Class = "UILabel"; text = "Yaroslavl bun"; ObjectID = "KjE-8x-Y9Y";</note>
+      </trans-unit>
+      <trans-unit id="Krn-Iw-bMd.text" xml:space="preserve">
+        <source>Turnip</source>
+        <target>Turnip</target>
+        <note>Class = "UILabel"; text = "Turnip"; ObjectID = "Krn-Iw-bMd";</note>
+      </trans-unit>
+      <trans-unit id="KtF-Zj-qCI.text" xml:space="preserve">
+        <source>Dairy ice cream</source>
+        <target>Dairy ice cream</target>
+        <note>Class = "UILabel"; text = "Dairy ice cream"; ObjectID = "KtF-Zj-qCI";</note>
+      </trans-unit>
+      <trans-unit id="Kv0-TJ-Yxw.text" xml:space="preserve">
+        <source>Birch juice</source>
+        <target>Birch juice</target>
+        <note>Class = "UILabel"; text = "Birch juice"; ObjectID = "Kv0-TJ-Yxw";</note>
+      </trans-unit>
+      <trans-unit id="Kvo-Gz-9UN.text" xml:space="preserve">
+        <source>70g</source>
+        <target>70g</target>
+        <note>Class = "UILabel"; text = "70g"; ObjectID = "Kvo-Gz-9UN";</note>
+      </trans-unit>
+      <trans-unit id="KwY-y8-vWM.text" xml:space="preserve">
+        <source>140g</source>
+        <target>140g</target>
+        <note>Class = "UILabel"; text = "140g"; ObjectID = "KwY-y8-vWM";</note>
+      </trans-unit>
+      <trans-unit id="Kww-6n-q6B.text" xml:space="preserve">
+        <source>23g</source>
+        <target>23g</target>
+        <note>Class = "UILabel"; text = "23g"; ObjectID = "Kww-6n-q6B";</note>
+      </trans-unit>
+      <trans-unit id="LI7-jP-rxk.text" xml:space="preserve">
+        <source>70g</source>
+        <target>70g</target>
+        <note>Class = "UILabel"; text = "70g"; ObjectID = "LI7-jP-rxk";</note>
+      </trans-unit>
+      <trans-unit id="LIY-bp-cjz.text" xml:space="preserve">
+        <source>Soy flour</source>
+        <target>Soy flour</target>
+        <note>Class = "UILabel"; text = "Soy flour"; ObjectID = "LIY-bp-cjz";</note>
+      </trans-unit>
+      <trans-unit id="LbY-cr-sNh.text" xml:space="preserve">
+        <source>Blackberry</source>
+        <target>Blackberry</target>
+        <note>Class = "UILabel"; text = "Blackberry"; ObjectID = "LbY-cr-sNh";</note>
+      </trans-unit>
+      <trans-unit id="LeF-dG-2Bi.text" xml:space="preserve">
+        <source>NUTS,DRIEFRUITS</source>
+        <target>NUTS,DRIEFRUITS</target>
+        <note>Class = "UILabel"; text = "NUTS,DRIEFRUITS"; ObjectID = "LeF-dG-2Bi";</note>
+      </trans-unit>
+      <trans-unit id="Lo4-z1-1pP.text" xml:space="preserve">
+        <source>150ml</source>
+        <target>150ml</target>
+        <note>Class = "UILabel"; text = "150ml"; ObjectID = "Lo4-z1-1pP";</note>
+      </trans-unit>
+      <trans-unit id="LrO-Mx-MCu.text" xml:space="preserve">
+        <source>70ml</source>
+        <target>70ml</target>
+        <note>Class = "UILabel"; text = "70ml"; ObjectID = "LrO-Mx-MCu";</note>
+      </trans-unit>
+      <trans-unit id="LvY-yL-FsL.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydraytes</source>
+        <target>1BU=10-12g of carbohydraytes</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydraytes"; ObjectID = "LvY-yL-FsL";</note>
+      </trans-unit>
+      <trans-unit id="Lvc-Eh-zjC.text" xml:space="preserve">
+        <source>130ml</source>
+        <target>130ml</target>
+        <note>Class = "UILabel"; text = "130ml"; ObjectID = "Lvc-Eh-zjC";</note>
+      </trans-unit>
+      <trans-unit id="Lwv-ir-jPP.text" xml:space="preserve">
+        <source>Olives (pulp)</source>
+        <target>Olives (pulp)</target>
+        <note>Class = "UILabel"; text = "Olives (pulp)"; ObjectID = "Lwv-ir-jPP";</note>
+      </trans-unit>
+      <trans-unit id="MD3-if-8Fi.text" xml:space="preserve">
+        <source>Rice*</source>
+        <target>Rice*</target>
+        <note>Class = "UILabel"; text = "Rice*"; ObjectID = "MD3-if-8Fi";</note>
+      </trans-unit>
+      <trans-unit id="MRg-s6-TSm.text" xml:space="preserve">
+        <source>60g</source>
+        <target>60g</target>
+        <note>Class = "UILabel"; text = "60g"; ObjectID = "MRg-s6-TSm";</note>
+      </trans-unit>
+      <trans-unit id="MZC-qd-WYY.footerTitle" xml:space="preserve">
+        <source>* -there is a view of 1 dining room. a spoon of raw cereal boiled(porridge) 1 bread unit contained in two tablespoons with slide (50g) </source>
+        <target>* -there is a view of 1 dining room. a spoon of raw cereal boiled(porridge) 1 bread unit contained in two tablespoons with slide (50g) </target>
+        <note>Class = "UITableViewSection"; footerTitle = "* -there is a view of 1 dining room. a spoon of raw cereal boiled(porridge) 1 bread unit contained in two tablespoons with slide (50g) "; ObjectID = "MZC-qd-WYY";</note>
+      </trans-unit>
+      <trans-unit id="MZC-qd-WYY.headerTitle" xml:space="preserve">
+        <source>PASTA</source>
+        <target>PASTA</target>
+        <note>Class = "UITableViewSection"; headerTitle = "PASTA"; ObjectID = "MZC-qd-WYY";</note>
+      </trans-unit>
+      <trans-unit id="MlN-hR-LZd.text" xml:space="preserve">
+        <source>Cucumber, greenhouse</source>
+        <target>Cucumber, greenhouse</target>
+        <note>Class = "UILabel"; text = "Cucumber, greenhouse"; ObjectID = "MlN-hR-LZd";</note>
+      </trans-unit>
+      <trans-unit id="Mrv-FM-SC5.text" xml:space="preserve">
+        <source>Tequila 40%</source>
+        <target>Tequila 40%</target>
+        <note>Class = "UILabel"; text = "Tequila 40%"; ObjectID = "Mrv-FM-SC5";</note>
+      </trans-unit>
+      <trans-unit id="MuG-ru-fTV.text" xml:space="preserve">
+        <source>FRUITS,BERRIES</source>
+        <target>FRUITS,BERRIES</target>
+        <note>Class = "UILabel"; text = "FRUITS,BERRIES"; ObjectID = "MuG-ru-fTV";</note>
+      </trans-unit>
+      <trans-unit id="N0x-h5-ah5.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "N0x-h5-ah5";</note>
+      </trans-unit>
+      <trans-unit id="N4K-AV-1qv.headerTitle" xml:space="preserve">
+        <source>DRI-FRUITS</source>
+        <target>DRI-FRUITS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "DRI-FRUITS"; ObjectID = "N4K-AV-1qv";</note>
+      </trans-unit>
+      <trans-unit id="N7m-rd-WhJ.text" xml:space="preserve">
+        <source>Хлебные палочки</source>
+        <target>Хлебные палочки</target>
+        <note>Class = "UILabel"; text = "Хлебные палочки"; ObjectID = "N7m-rd-WhJ";</note>
+      </trans-unit>
+      <trans-unit id="NFv-1g-Fl2.text" xml:space="preserve">
+        <source>Blueberries</source>
+        <target>Blueberries</target>
+        <note>Class = "UILabel"; text = "Blueberries"; ObjectID = "NFv-1g-Fl2";</note>
+      </trans-unit>
+      <trans-unit id="NGK-VK-D9q.text" xml:space="preserve">
+        <source>Cheesecake</source>
+        <target>Cheesecake</target>
+        <note>Class = "UILabel"; text = "Cheesecake"; ObjectID = "NGK-VK-D9q";</note>
+      </trans-unit>
+      <trans-unit id="NMN-sL-8dt.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "NMN-sL-8dt";</note>
+      </trans-unit>
+      <trans-unit id="NMO-g9-N9W.text" xml:space="preserve">
+        <source>Sprite (Sprite)</source>
+        <target>Sprite (Sprite)</target>
+        <note>Class = "UILabel"; text = "Sprite (Sprite)"; ObjectID = "NMO-g9-N9W";</note>
+      </trans-unit>
+      <trans-unit id="NRu-mb-fPx.text" xml:space="preserve">
+        <source>200ml</source>
+        <target>200ml</target>
+        <note>Class = "UILabel"; text = "200ml"; ObjectID = "NRu-mb-fPx";</note>
+      </trans-unit>
+      <trans-unit id="NW9-az-AYo.text" xml:space="preserve">
+        <source>Wheat bran</source>
+        <target>Wheat bran</target>
+        <note>Class = "UILabel"; text = "Wheat bran"; ObjectID = "NW9-az-AYo";</note>
+      </trans-unit>
+      <trans-unit id="Nag-zk-ifW.text" xml:space="preserve">
+        <source>Dry potatoes (chips)</source>
+        <target>Dry potatoes (chips)</target>
+        <note>Class = "UILabel"; text = "Dry potatoes (chips)"; ObjectID = "Nag-zk-ifW";</note>
+      </trans-unit>
+      <trans-unit id="Nfm-VS-J1D.text" xml:space="preserve">
+        <source>Melon</source>
+        <target>Melon</target>
+        <note>Class = "UILabel"; text = "Melon"; ObjectID = "Nfm-VS-J1D";</note>
+      </trans-unit>
+      <trans-unit id="NjX-Ls-CUe.text" xml:space="preserve">
+        <source>Ground nut</source>
+        <target>Ground nut</target>
+        <note>Class = "UILabel"; text = "Ground nut"; ObjectID = "NjX-Ls-CUe";</note>
+      </trans-unit>
+      <trans-unit id="O2t-R3-HID.text" xml:space="preserve">
+        <source>Rye bread</source>
+        <target>Rye bread</target>
+        <note>Class = "UILabel"; text = "Rye bread"; ObjectID = "O2t-R3-HID";</note>
+      </trans-unit>
+      <trans-unit id="O3y-Wl-f2i.text" xml:space="preserve">
+        <source>110mll</source>
+        <target>110mll</target>
+        <note>Class = "UILabel"; text = "110mll"; ObjectID = "O3y-Wl-f2i";</note>
+      </trans-unit>
+      <trans-unit id="O7K-Yh-yzX.text" xml:space="preserve">
+        <source>Strawberries (garden), 
+strawberries</source>
+        <target>Strawberries (garden), 
+strawberries</target>
+        <note>Class = "UILabel"; text = "Strawberries (garden), \nstrawberries"; ObjectID = "O7K-Yh-yzX";</note>
+      </trans-unit>
+      <trans-unit id="O8Z-Jy-Kan.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "O8Z-Jy-Kan";</note>
+      </trans-unit>
+      <trans-unit id="O9k-fg-iej.text" xml:space="preserve">
+        <source>Watermelon</source>
+        <target>Watermelon</target>
+        <note>Class = "UILabel"; text = "Watermelon"; ObjectID = "O9k-fg-iej";</note>
+      </trans-unit>
+      <trans-unit id="OCB-S9-swq.text" xml:space="preserve">
+        <source>Grain bread (flour / s 
+and crushed grain)</source>
+        <target>Grain bread (flour / s 
+and crushed grain)</target>
+        <note>Class = "UILabel"; text = "Grain bread (flour / s \nand crushed grain)"; ObjectID = "OCB-S9-swq";</note>
+      </trans-unit>
+      <trans-unit id="OGW-eX-QEM.text" xml:space="preserve">
+        <source>100 g</source>
+        <target>100 g</target>
+        <note>Class = "UILabel"; text = "100 g"; ObjectID = "OGW-eX-QEM";</note>
+      </trans-unit>
+      <trans-unit id="OPg-QG-2JY.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "OPg-QG-2JY";</note>
+      </trans-unit>
+      <trans-unit id="OTB-YO-sLs.title" xml:space="preserve">
+        <source>FOODLIST</source>
+        <target>FOODLIST</target>
+        <note>Class = "UINavigationItem"; title = "FOODLIST"; ObjectID = "OTB-YO-sLs";</note>
+      </trans-unit>
+      <trans-unit id="OTW-RK-i0N.text" xml:space="preserve">
+        <source>140g</source>
+        <target>140g</target>
+        <note>Class = "UILabel"; text = "140g"; ObjectID = "OTW-RK-i0N";</note>
+      </trans-unit>
+      <trans-unit id="Off-SE-6ZL.text" xml:space="preserve">
+        <source>Flour-free soy flour</source>
+        <target>Flour-free soy flour</target>
+        <note>Class = "UILabel"; text = "Flour-free soy flour"; ObjectID = "Off-SE-6ZL";</note>
+      </trans-unit>
+      <trans-unit id="Ohe-CA-e8t.text" xml:space="preserve">
+        <source>12g</source>
+        <target>12g</target>
+        <note>Class = "UILabel"; text = "12g"; ObjectID = "Ohe-CA-e8t";</note>
+      </trans-unit>
+      <trans-unit id="Ol6-vX-T1X.text" xml:space="preserve">
+        <source>Homemade noodles</source>
+        <target>Homemade noodles</target>
+        <note>Class = "UILabel"; text = "Homemade noodles"; ObjectID = "Ol6-vX-T1X";</note>
+      </trans-unit>
+      <trans-unit id="Opm-Qo-JQP.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "Opm-Qo-JQP";</note>
+      </trans-unit>
+      <trans-unit id="Oq6-l0-9UM.text" xml:space="preserve">
+        <source>Cloudberry</source>
+        <target>Cloudberry</target>
+        <note>Class = "UILabel"; text = "Cloudberry"; ObjectID = "Oq6-l0-9UM";</note>
+      </trans-unit>
+      <trans-unit id="Oqc-4r-Li1.text" xml:space="preserve">
+        <source>Honeysuckle</source>
+        <target>Honeysuckle</target>
+        <note>Class = "UILabel"; text = "Honeysuckle"; ObjectID = "Oqc-4r-Li1";</note>
+      </trans-unit>
+      <trans-unit id="Ost-hl-ytn.text" xml:space="preserve">
+        <source>Potatoes</source>
+        <target>Potatoes</target>
+        <note>Class = "UILabel"; text = "Potatoes"; ObjectID = "Ost-hl-ytn";</note>
+      </trans-unit>
+      <trans-unit id="Oum-xm-Mci.text" xml:space="preserve">
+        <source>300 g</source>
+        <target>300 g</target>
+        <note>Class = "UILabel"; text = "300 g"; ObjectID = "Oum-xm-Mci";</note>
+      </trans-unit>
+      <trans-unit id="Oxl-Up-Zrp.text" xml:space="preserve">
+        <source>Pepsi (Pepsi)</source>
+        <target>Pepsi (Pepsi)</target>
+        <note>Class = "UILabel"; text = "Pepsi (Pepsi)"; ObjectID = "Oxl-Up-Zrp";</note>
+      </trans-unit>
+      <trans-unit id="Oyw-UY-e5v.text" xml:space="preserve">
+        <source>16g</source>
+        <target>16g</target>
+        <note>Class = "UILabel"; text = "16g"; ObjectID = "Oyw-UY-e5v";</note>
+      </trans-unit>
+      <trans-unit id="P9e-59-zIL.text" xml:space="preserve">
+        <source>16g</source>
+        <target>16g</target>
+        <note>Class = "UILabel"; text = "16g"; ObjectID = "P9e-59-zIL";</note>
+      </trans-unit>
+      <trans-unit id="PMH-ce-JWu.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "PMH-ce-JWu";</note>
+      </trans-unit>
+      <trans-unit id="PWP-N1-Gkz.text" xml:space="preserve">
+        <source>Dried apricot</source>
+        <target>Dried apricot</target>
+        <note>Class = "UILabel"; text = "Dried apricot"; ObjectID = "PWP-N1-Gkz";</note>
+      </trans-unit>
+      <trans-unit id="Pa9-AA-W8A.title" xml:space="preserve">
+        <source>products</source>
+        <target>products</target>
+        <note>Class = "UITabBarItem"; title = "products"; ObjectID = "Pa9-AA-W8A";</note>
+      </trans-unit>
+      <trans-unit id="Pfv-Xe-1Sh.text" xml:space="preserve">
+        <source>Army crackers, rye</source>
+        <target>Army crackers, rye</target>
+        <note>Class = "UILabel"; text = "Army crackers, rye"; ObjectID = "Pfv-Xe-1Sh";</note>
+      </trans-unit>
+      <trans-unit id="Pg6-8S-fLN.text" xml:space="preserve">
+        <source>Peking cabbage</source>
+        <target>Peking cabbage</target>
+        <note>Class = "UILabel"; text = "Peking cabbage"; ObjectID = "Pg6-8S-fLN";</note>
+      </trans-unit>
+      <trans-unit id="Pjb-cr-MNb.text" xml:space="preserve">
+        <source>300 g</source>
+        <target>300 g</target>
+        <note>Class = "UILabel"; text = "300 g"; ObjectID = "Pjb-cr-MNb";</note>
+      </trans-unit>
+      <trans-unit id="PnD-gI-SWV.text" xml:space="preserve">
+        <source>30 g</source>
+        <target>30 g</target>
+        <note>Class = "UILabel"; text = "30 g"; ObjectID = "PnD-gI-SWV";</note>
+      </trans-unit>
+      <trans-unit id="Ppf-HU-gkv.text" xml:space="preserve">
+        <source>From flour of the 
+highest grade fortified</source>
+        <target>From flour of the 
+highest grade fortified</target>
+        <note>Class = "UILabel"; text = "From flour of the \nhighest grade fortified"; ObjectID = "Ppf-HU-gkv";</note>
+      </trans-unit>
+      <trans-unit id="PuT-5t-PiS.text" xml:space="preserve">
+        <source>160g</source>
+        <target>160g</target>
+        <note>Class = "UILabel"; text = "160g"; ObjectID = "PuT-5t-PiS";</note>
+      </trans-unit>
+      <trans-unit id="Pul-Cr-RCk.text" xml:space="preserve">
+        <source>Dried apricot</source>
+        <target>Dried apricot</target>
+        <note>Class = "UILabel"; text = "Dried apricot"; ObjectID = "Pul-Cr-RCk";</note>
+      </trans-unit>
+      <trans-unit id="PvF-od-6cF.text" xml:space="preserve">
+        <source>22g</source>
+        <target>22g</target>
+        <note>Class = "UILabel"; text = "22g"; ObjectID = "PvF-od-6cF";</note>
+      </trans-unit>
+      <trans-unit id="PvV-nD-KaL.text" xml:space="preserve">
+        <source>Condensed milk 
+sugar free 1/3 can</source>
+        <target>Condensed milk 
+sugar free 1/3 can</target>
+        <note>Class = "UILabel"; text = "Condensed milk \nsugar free 1/3 can"; ObjectID = "PvV-nD-KaL";</note>
+      </trans-unit>
+      <trans-unit id="Q9J-Np-y4V.text" xml:space="preserve">
+        <source>Figs</source>
+        <target>Figs</target>
+        <note>Class = "UILabel"; text = "Figs"; ObjectID = "Q9J-Np-y4V";</note>
+      </trans-unit>
+      <trans-unit id="QCR-6i-OFv.text" xml:space="preserve">
+        <source>Sweet potato</source>
+        <target>Sweet potato</target>
+        <note>Class = "UILabel"; text = "Sweet potato"; ObjectID = "QCR-6i-OFv";</note>
+      </trans-unit>
+      <trans-unit id="QHd-K8-Gve.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "QHd-K8-Gve";</note>
+      </trans-unit>
+      <trans-unit id="QUj-oJ-NEe.text" xml:space="preserve">
+        <source>Bagels are rich</source>
+        <target>Bagels are rich</target>
+        <note>Class = "UILabel"; text = "Bagels are rich"; ObjectID = "QUj-oJ-NEe";</note>
+      </trans-unit>
+      <trans-unit id="QYw-W8-cFA.text" xml:space="preserve">
+        <source>14 g</source>
+        <target>14 g</target>
+        <note>Class = "UILabel"; text = "14 g"; ObjectID = "QYw-W8-cFA";</note>
+      </trans-unit>
+      <trans-unit id="QZO-LK-74o.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "QZO-LK-74o";</note>
+      </trans-unit>
+      <trans-unit id="Qhf-6u-Exl.text" xml:space="preserve">
+        <source>60g</source>
+        <target>60g</target>
+        <note>Class = "UILabel"; text = "60g"; ObjectID = "Qhf-6u-Exl";</note>
+      </trans-unit>
+      <trans-unit id="Qiy-ok-Xe3.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "Qiy-ok-Xe3";</note>
+      </trans-unit>
+      <trans-unit id="Qkp-nl-ciG.text" xml:space="preserve">
+        <source>Cauliflower pickled</source>
+        <target>Cauliflower pickled</target>
+        <note>Class = "UILabel"; text = "Cauliflower pickled"; ObjectID = "Qkp-nl-ciG";</note>
+      </trans-unit>
+      <trans-unit id="QnG-I2-3cu.text" xml:space="preserve">
+        <source>Army crackers, wheat</source>
+        <target>Army crackers, wheat</target>
+        <note>Class = "UILabel"; text = "Army crackers, wheat"; ObjectID = "QnG-I2-3cu";</note>
+      </trans-unit>
+      <trans-unit id="Qqp-wM-ckb.text" xml:space="preserve">
+        <source>Gingerbread</source>
+        <target>Gingerbread</target>
+        <note>Class = "UILabel"; text = "Gingerbread"; ObjectID = "Qqp-wM-ckb";</note>
+      </trans-unit>
+      <trans-unit id="Qvo-sD-sXc.text" xml:space="preserve">
+        <source>Doughnuts</source>
+        <target>Doughnuts</target>
+        <note>Class = "UILabel"; text = "Doughnuts"; ObjectID = "Qvo-sD-sXc";</note>
+      </trans-unit>
+      <trans-unit id="QyD-0u-FHg.text" xml:space="preserve">
+        <source>250 ml</source>
+        <target>250 ml</target>
+        <note>Class = "UILabel"; text = "250 ml"; ObjectID = "QyD-0u-FHg";</note>
+      </trans-unit>
+      <trans-unit id="R5G-7e-4ml.text" xml:space="preserve">
+        <source>Rutabaga</source>
+        <target>Rutabaga</target>
+        <note>Class = "UILabel"; text = "Rutabaga"; ObjectID = "R5G-7e-4ml";</note>
+      </trans-unit>
+      <trans-unit id="RDc-v7-ZxV.text" xml:space="preserve">
+        <source>Garnet</source>
+        <target>Garnet</target>
+        <note>Class = "UILabel"; text = "Garnet"; ObjectID = "RDc-v7-ZxV";</note>
+      </trans-unit>
+      <trans-unit id="RTZ-Lj-Qtt.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "RTZ-Lj-Qtt";</note>
+      </trans-unit>
+      <trans-unit id="Rau-MM-lpl.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "Rau-MM-lpl";</note>
+      </trans-unit>
+      <trans-unit id="RfI-za-bwa.text" xml:space="preserve">
+        <source>400g</source>
+        <target>400g</target>
+        <note>Class = "UILabel"; text = "400g"; ObjectID = "RfI-za-bwa";</note>
+      </trans-unit>
+      <trans-unit id="RfQ-Oe-aIL.text" xml:space="preserve">
+        <source>Crackers with bran</source>
+        <target>Crackers with bran</target>
+        <note>Class = "UILabel"; text = "Crackers with bran"; ObjectID = "RfQ-Oe-aIL";</note>
+      </trans-unit>
+      <trans-unit id="Rix-pI-txZ.text" xml:space="preserve">
+        <source>17g</source>
+        <target>17g</target>
+        <note>Class = "UILabel"; text = "17g"; ObjectID = "Rix-pI-txZ";</note>
+      </trans-unit>
+      <trans-unit id="Rqk-E0-vOi.text" xml:space="preserve">
+        <source>Brussels Sprouts</source>
+        <target>Brussels Sprouts</target>
+        <note>Class = "UILabel"; text = "Brussels Sprouts"; ObjectID = "Rqk-E0-vOi";</note>
+      </trans-unit>
+      <trans-unit id="RuO-B8-H3x.text" xml:space="preserve">
+        <source>200ml</source>
+        <target>200ml</target>
+        <note>Class = "UILabel"; text = "200ml"; ObjectID = "RuO-B8-H3x";</note>
+      </trans-unit>
+      <trans-unit id="S5t-R2-pAL.text" xml:space="preserve">
+        <source>18 ml</source>
+        <target>18 ml</target>
+        <note>Class = "UILabel"; text = "18 ml"; ObjectID = "S5t-R2-pAL";</note>
+      </trans-unit>
+      <trans-unit id="S7H-Lv-U5Q.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "S7H-Lv-U5Q";</note>
+      </trans-unit>
+      <trans-unit id="SGs-zl-Lm1.text" xml:space="preserve">
+        <source>Buckwheat</source>
+        <target>Buckwheat</target>
+        <note>Class = "UILabel"; text = "Buckwheat"; ObjectID = "SGs-zl-Lm1";</note>
+      </trans-unit>
+      <trans-unit id="SYe-MJ-Mkd.text" xml:space="preserve">
+        <source>250ml</source>
+        <target>250ml</target>
+        <note>Class = "UILabel"; text = "250ml"; ObjectID = "SYe-MJ-Mkd";</note>
+      </trans-unit>
+      <trans-unit id="SZh-Yk-MOA.headerTitle" xml:space="preserve">
+        <source>BREAD</source>
+        <target>BREAD</target>
+        <note>Class = "UITableViewSection"; headerTitle = "BREAD"; ObjectID = "SZh-Yk-MOA";</note>
+      </trans-unit>
+      <trans-unit id="SdN-V3-rFC.text" xml:space="preserve">
+        <source>250 ml</source>
+        <target>250 ml</target>
+        <note>Class = "UILabel"; text = "250 ml"; ObjectID = "SdN-V3-rFC";</note>
+      </trans-unit>
+      <trans-unit id="T1i-kd-vGh.text" xml:space="preserve">
+        <source>150ml</source>
+        <target>150ml</target>
+        <note>Class = "UILabel"; text = "150ml"; ObjectID = "T1i-kd-vGh";</note>
+      </trans-unit>
+      <trans-unit id="TB6-Wo-Ypj.text" xml:space="preserve">
+        <source>Fresh green peas</source>
+        <target>Fresh green peas</target>
+        <note>Class = "UILabel"; text = "Fresh green peas"; ObjectID = "TB6-Wo-Ypj";</note>
+      </trans-unit>
+      <trans-unit id="TE2-i5-YUU.text" xml:space="preserve">
+        <source>Lingonberry</source>
+        <target>Lingonberry</target>
+        <note>Class = "UILabel"; text = "Lingonberry"; ObjectID = "TE2-i5-YUU";</note>
+      </trans-unit>
+      <trans-unit id="THG-NV-Gap.text" xml:space="preserve">
+        <source>160ml</source>
+        <target>160ml</target>
+        <note>Class = "UILabel"; text = "160ml"; ObjectID = "THG-NV-Gap";</note>
+      </trans-unit>
+      <trans-unit id="Tb2-cd-TbZ.text" xml:space="preserve">
+        <source>23g</source>
+        <target>23g</target>
+        <note>Class = "UILabel"; text = "23g"; ObjectID = "Tb2-cd-TbZ";</note>
+      </trans-unit>
+      <trans-unit id="Tg4-fK-mPU.text" xml:space="preserve">
+        <source>Pear juice</source>
+        <target>Pear juice</target>
+        <note>Class = "UILabel"; text = "Pear juice"; ObjectID = "Tg4-fK-mPU";</note>
+      </trans-unit>
+      <trans-unit id="Tm2-w2-YNk.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "Tm2-w2-YNk";</note>
+      </trans-unit>
+      <trans-unit id="TnZ-OV-10I.text" xml:space="preserve">
+        <source>Kiwi juice</source>
+        <target>Kiwi juice</target>
+        <note>Class = "UILabel"; text = "Kiwi juice"; ObjectID = "TnZ-OV-10I";</note>
+      </trans-unit>
+      <trans-unit id="Tvm-B0-CTR.text" xml:space="preserve">
+        <source>Barberry</source>
+        <target>Barberry</target>
+        <note>Class = "UILabel"; text = "Barberry"; ObjectID = "Tvm-B0-CTR";</note>
+      </trans-unit>
+      <trans-unit id="Ty7-Ny-V5v.text" xml:space="preserve">
+        <source>Carrot yellow</source>
+        <target>Carrot yellow</target>
+        <note>Class = "UILabel"; text = "Carrot yellow"; ObjectID = "Ty7-Ny-V5v";</note>
+      </trans-unit>
+      <trans-unit id="U5c-Hs-CgJ.text" xml:space="preserve">
+        <source>130ml</source>
+        <target>130ml</target>
+        <note>Class = "UILabel"; text = "130ml"; ObjectID = "U5c-Hs-CgJ";</note>
+      </trans-unit>
+      <trans-unit id="UAr-SF-wu2.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydraytes</source>
+        <target>1BU=10-12g of carbohydraytes</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydraytes"; ObjectID = "UAr-SF-wu2";</note>
+      </trans-unit>
+      <trans-unit id="UM1-9Q-Anh.text" xml:space="preserve">
+        <source>Cake, biscuit with cream</source>
+        <target>Cake, biscuit with cream</target>
+        <note>Class = "UILabel"; text = "Cake, biscuit with cream"; ObjectID = "UM1-9Q-Anh";</note>
+      </trans-unit>
+      <trans-unit id="UNj-kN-SRQ.text" xml:space="preserve">
+        <source>100 ml</source>
+        <target>100 ml</target>
+        <note>Class = "UILabel"; text = "100 ml"; ObjectID = "UNj-kN-SRQ";</note>
+      </trans-unit>
+      <trans-unit id="UXe-f6-2gO.text" xml:space="preserve">
+        <source>Whiskey 40%</source>
+        <target>Whiskey 40%</target>
+        <note>Class = "UILabel"; text = "Whiskey 40%"; ObjectID = "UXe-f6-2gO";</note>
+      </trans-unit>
+      <trans-unit id="UZ2-dF-kCx.text" xml:space="preserve">
+        <source>Lemon</source>
+        <target>Lemon</target>
+        <note>Class = "UILabel"; text = "Lemon"; ObjectID = "UZ2-dF-kCx";</note>
+      </trans-unit>
+      <trans-unit id="Ua3-Se-pr0.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydrates</source>
+        <target>1BU=10-12g of carbohydrates</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydrates"; ObjectID = "Ua3-Se-pr0";</note>
+      </trans-unit>
+      <trans-unit id="Ugs-mc-VuS.text" xml:space="preserve">
+        <source>130ml</source>
+        <target>130ml</target>
+        <note>Class = "UILabel"; text = "130ml"; ObjectID = "Ugs-mc-VuS";</note>
+      </trans-unit>
+      <trans-unit id="Uor-lz-z7F.text" xml:space="preserve">
+        <source>Buns are sweet</source>
+        <target>Buns are sweet</target>
+        <note>Class = "UILabel"; text = "Buns are sweet"; ObjectID = "Uor-lz-z7F";</note>
+      </trans-unit>
+      <trans-unit id="UxQ-8f-VEM.text" xml:space="preserve">
+        <source>160g</source>
+        <target>160g</target>
+        <note>Class = "UILabel"; text = "160g"; ObjectID = "UxQ-8f-VEM";</note>
+      </trans-unit>
+      <trans-unit id="V5K-mX-e72.text" xml:space="preserve">
+        <source>60g</source>
+        <target>60g</target>
+        <note>Class = "UILabel"; text = "60g"; ObjectID = "V5K-mX-e72";</note>
+      </trans-unit>
+      <trans-unit id="V6q-Gf-vs3.text" xml:space="preserve">
+        <source>Wheat flour first grade</source>
+        <target>Wheat flour first grade</target>
+        <note>Class = "UILabel"; text = "Wheat flour first grade"; ObjectID = "V6q-Gf-vs3";</note>
+      </trans-unit>
+      <trans-unit id="VEA-0B-CLw.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "VEA-0B-CLw";</note>
+      </trans-unit>
+      <trans-unit id="VGC-vE-Yzu.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydraytes</source>
+        <target>1BU=10-12g of carbohydraytes</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydraytes"; ObjectID = "VGC-vE-Yzu";</note>
+      </trans-unit>
+      <trans-unit id="VPg-f4-Q9r.text" xml:space="preserve">
+        <source>Cream crackers</source>
+        <target>Cream crackers</target>
+        <note>Class = "UILabel"; text = "Cream crackers"; ObjectID = "VPg-f4-Q9r";</note>
+      </trans-unit>
+      <trans-unit id="VVU-GS-F06.text" xml:space="preserve">
+        <source>Bee honey</source>
+        <target>Bee honey</target>
+        <note>Class = "UILabel"; text = "Bee honey"; ObjectID = "VVU-GS-F06";</note>
+      </trans-unit>
+      <trans-unit id="Vax-kd-aXm.text" xml:space="preserve">
+        <source>75g</source>
+        <target>75g</target>
+        <note>Class = "UILabel"; text = "75g"; ObjectID = "Vax-kd-aXm";</note>
+      </trans-unit>
+      <trans-unit id="VdH-Hn-zVM.text" xml:space="preserve">
+        <source>30ml</source>
+        <target>30ml</target>
+        <note>Class = "UILabel"; text = "30ml"; ObjectID = "VdH-Hn-zVM";</note>
+      </trans-unit>
+      <trans-unit id="Vj2-Z4-gst.text" xml:space="preserve">
+        <source>600 g</source>
+        <target>600 g</target>
+        <note>Class = "UILabel"; text = "600 g"; ObjectID = "Vj2-Z4-gst";</note>
+      </trans-unit>
+      <trans-unit id="VnH-1S-zzq.text" xml:space="preserve">
+        <source>Dark beer</source>
+        <target>Dark beer</target>
+        <note>Class = "UILabel"; text = "Dark beer"; ObjectID = "VnH-1S-zzq";</note>
+      </trans-unit>
+      <trans-unit id="W5P-1t-cOr.text" xml:space="preserve">
+        <source>Liqueurs</source>
+        <target>Liqueurs</target>
+        <note>Class = "UILabel"; text = "Liqueurs"; ObjectID = "W5P-1t-cOr";</note>
+      </trans-unit>
+      <trans-unit id="W5Z-cF-NhZ.text" xml:space="preserve">
+        <source>Light beer</source>
+        <target>Light beer</target>
+        <note>Class = "UILabel"; text = "Light beer"; ObjectID = "W5Z-cF-NhZ";</note>
+      </trans-unit>
+      <trans-unit id="W7p-bQ-Khj.text" xml:space="preserve">
+        <source>150g</source>
+        <target>150g</target>
+        <note>Class = "UILabel"; text = "150g"; ObjectID = "W7p-bQ-Khj";</note>
+      </trans-unit>
+      <trans-unit id="WBr-qH-cL0.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "WBr-qH-cL0";</note>
+      </trans-unit>
+      <trans-unit id="WIO-Bs-hae.title" xml:space="preserve">
+        <source>favorites</source>
+        <target>favorites</target>
+        <note>Class = "UITabBarItem"; title = "favorites"; ObjectID = "WIO-Bs-hae";</note>
+      </trans-unit>
+      <trans-unit id="WMm-kS-mg8.text" xml:space="preserve">
+        <source>Red carrot</source>
+        <target>Red carrot</target>
+        <note>Class = "UILabel"; text = "Red carrot"; ObjectID = "WMm-kS-mg8";</note>
+      </trans-unit>
+      <trans-unit id="WPw-CI-M5U.text" xml:space="preserve">
+        <source>13 g</source>
+        <target>13 g</target>
+        <note>Class = "UILabel"; text = "13 g"; ObjectID = "WPw-CI-M5U";</note>
+      </trans-unit>
+      <trans-unit id="WQf-iv-oTZ.text" xml:space="preserve">
+        <source>Nutmeg</source>
+        <target>Nutmeg</target>
+        <note>Class = "UILabel"; text = "Nutmeg"; ObjectID = "WQf-iv-oTZ";</note>
+      </trans-unit>
+      <trans-unit id="WWD-YW-Uc4.text" xml:space="preserve">
+        <source>75ml</source>
+        <target>75ml</target>
+        <note>Class = "UILabel"; text = "75ml"; ObjectID = "WWD-YW-Uc4";</note>
+      </trans-unit>
+      <trans-unit id="WZh-lL-iFd.text" xml:space="preserve">
+        <source>Beet Juice</source>
+        <target>Beet Juice</target>
+        <note>Class = "UILabel"; text = "Beet Juice"; ObjectID = "WZh-lL-iFd";</note>
+      </trans-unit>
+      <trans-unit id="WZk-jG-BdA.text" xml:space="preserve">
+        <source>170g</source>
+        <target>170g</target>
+        <note>Class = "UILabel"; text = "170g"; ObjectID = "WZk-jG-BdA";</note>
+      </trans-unit>
+      <trans-unit id="WZu-Ur-kqR.text" xml:space="preserve">
+        <source>Blueberry</source>
+        <target>Blueberry</target>
+        <note>Class = "UILabel"; text = "Blueberry"; ObjectID = "WZu-Ur-kqR";</note>
+      </trans-unit>
+      <trans-unit id="WoD-RE-Io7.text" xml:space="preserve">
+        <source>Сarbonated water on
+sugar (lemonade)</source>
+        <target>Сarbonated water on
+sugar (lemonade)</target>
+        <note>Class = "UILabel"; text = "Сarbonated water on\nsugar (lemonade)"; ObjectID = "WoD-RE-Io7";</note>
+      </trans-unit>
+      <trans-unit id="Wqs-0o-9Bf.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "Wqs-0o-9Bf";</note>
+      </trans-unit>
+      <trans-unit id="Wzf-hW-TDj.text" xml:space="preserve">
+        <source>1250g</source>
+        <target>1250g</target>
+        <note>Class = "UILabel"; text = "1250g"; ObjectID = "Wzf-hW-TDj";</note>
+      </trans-unit>
+      <trans-unit id="XKg-bB-Yub.text" xml:space="preserve">
+        <source>Low-fat cottage cheese</source>
+        <target>Low-fat cottage cheese</target>
+        <note>Class = "UILabel"; text = "Low-fat cottage cheese"; ObjectID = "XKg-bB-Yub";</note>
+      </trans-unit>
+      <trans-unit id="XLB-vE-pjV.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "XLB-vE-pjV";</note>
+      </trans-unit>
+      <trans-unit id="XWO-8p-Pku.text" xml:space="preserve">
+        <source>Buns dairy</source>
+        <target>Buns dairy</target>
+        <note>Class = "UILabel"; text = "Buns dairy"; ObjectID = "XWO-8p-Pku";</note>
+      </trans-unit>
+      <trans-unit id="XZr-qB-8K1.text" xml:space="preserve">
+        <source>230ml</source>
+        <target>230ml</target>
+        <note>Class = "UILabel"; text = "230ml"; ObjectID = "XZr-qB-8K1";</note>
+      </trans-unit>
+      <trans-unit id="Xdp-O9-DvE.text" xml:space="preserve">
+        <source>90ml</source>
+        <target>90ml</target>
+        <note>Class = "UILabel"; text = "90ml"; ObjectID = "Xdp-O9-DvE";</note>
+      </trans-unit>
+      <trans-unit id="Y5j-kj-mKm.text" xml:space="preserve">
+        <source>Cherkizovskaya bun</source>
+        <target>Cherkizovskaya bun</target>
+        <note>Class = "UILabel"; text = "Cherkizovskaya bun"; ObjectID = "Y5j-kj-mKm";</note>
+      </trans-unit>
+      <trans-unit id="YVq-pX-rfd.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "YVq-pX-rfd";</note>
+      </trans-unit>
+      <trans-unit id="YgX-bf-dVC.text" xml:space="preserve">
+        <source>Guava Juice</source>
+        <target>Guava Juice</target>
+        <note>Class = "UILabel"; text = "Guava Juice"; ObjectID = "YgX-bf-dVC";</note>
+      </trans-unit>
+      <trans-unit id="Ykp-Ex-EWI.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "Ykp-Ex-EWI";</note>
+      </trans-unit>
+      <trans-unit id="Ytj-uJ-iU1.text" xml:space="preserve">
+        <source>Coconut Crumb</source>
+        <target>Coconut Crumb</target>
+        <note>Class = "UILabel"; text = "Coconut Crumb"; ObjectID = "Ytj-uJ-iU1";</note>
+      </trans-unit>
+      <trans-unit id="YxI-YB-Czp.text" xml:space="preserve">
+        <source>Pistachios</source>
+        <target>Pistachios</target>
+        <note>Class = "UILabel"; text = "Pistachios"; ObjectID = "YxI-YB-Czp";</note>
+      </trans-unit>
+      <trans-unit id="ZTL-jh-lTF.text" xml:space="preserve">
+        <source>60g</source>
+        <target>60g</target>
+        <note>Class = "UILabel"; text = "60g"; ObjectID = "ZTL-jh-lTF";</note>
+      </trans-unit>
+      <trans-unit id="Zdo-FL-g8C.text" xml:space="preserve">
+        <source>Vodka</source>
+        <target>Vodka</target>
+        <note>Class = "UILabel"; text = "Vodka"; ObjectID = "Zdo-FL-g8C";</note>
+      </trans-unit>
+      <trans-unit id="Zit-GF-hmx.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "Zit-GF-hmx";</note>
+      </trans-unit>
+      <trans-unit id="a0Z-mq-gw6.text" xml:space="preserve">
+        <source>170g</source>
+        <target>170g</target>
+        <note>Class = "UILabel"; text = "170g"; ObjectID = "a0Z-mq-gw6";</note>
+      </trans-unit>
+      <trans-unit id="a3N-PO-KzD.text" xml:space="preserve">
+        <source>200 ml</source>
+        <target>200 ml</target>
+        <note>Class = "UILabel"; text = "200 ml"; ObjectID = "a3N-PO-KzD";</note>
+      </trans-unit>
+      <trans-unit id="a5c-Wo-zih.text" xml:space="preserve">
+        <source>Eskimo Ice Cream</source>
+        <target>Eskimo Ice Cream</target>
+        <note>Class = "UILabel"; text = "Eskimo Ice Cream"; ObjectID = "a5c-Wo-zih";</note>
+      </trans-unit>
+      <trans-unit id="aFG-AY-D9R.text" xml:space="preserve">
+        <source>Orange juice</source>
+        <target>Orange juice</target>
+        <note>Class = "UILabel"; text = "Orange juice"; ObjectID = "aFG-AY-D9R";</note>
+      </trans-unit>
+      <trans-unit id="aJ2-HO-Bbv.text" xml:space="preserve">
+        <source>300g</source>
+        <target>300g</target>
+        <note>Class = "UILabel"; text = "300g"; ObjectID = "aJ2-HO-Bbv";</note>
+      </trans-unit>
+      <trans-unit id="abP-x8-5bv.text" xml:space="preserve">
+        <source>Juniper</source>
+        <target>Juniper</target>
+        <note>Class = "UILabel"; text = "Juniper"; ObjectID = "abP-x8-5bv";</note>
+      </trans-unit>
+      <trans-unit id="ach-06-9HX.text" xml:space="preserve">
+        <source>Pear</source>
+        <target>Pear</target>
+        <note>Class = "UILabel"; text = "Pear"; ObjectID = "ach-06-9HX";</note>
+      </trans-unit>
+      <trans-unit id="ah2-5l-AKd.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "ah2-5l-AKd";</note>
+      </trans-unit>
+      <trans-unit id="ai4-kC-yTA.text" xml:space="preserve">
+        <source>10g</source>
+        <target>10g</target>
+        <note>Class = "UILabel"; text = "10g"; ObjectID = "ai4-kC-yTA";</note>
+      </trans-unit>
+      <trans-unit id="aqf-Bq-AfV.text" xml:space="preserve">
+        <source>Cottage cheese</source>
+        <target>Cottage cheese</target>
+        <note>Class = "UILabel"; text = "Cottage cheese"; ObjectID = "aqf-Bq-AfV";</note>
+      </trans-unit>
+      <trans-unit id="bKC-aq-dag.text" xml:space="preserve">
+        <source>150g</source>
+        <target>150g</target>
+        <note>Class = "UILabel"; text = "150g"; ObjectID = "bKC-aq-dag";</note>
+      </trans-unit>
+      <trans-unit id="bNI-N0-P7L.text" xml:space="preserve">
+        <source>Prunes (dried plum)</source>
+        <target>Prunes (dried plum)</target>
+        <note>Class = "UILabel"; text = "Prunes (dried plum)"; ObjectID = "bNI-N0-P7L";</note>
+      </trans-unit>
+      <trans-unit id="bR2-AB-uMR.text" xml:space="preserve">
+        <source>Persimmon</source>
+        <target>Persimmon</target>
+        <note>Class = "UILabel"; text = "Persimmon"; ObjectID = "bR2-AB-uMR";</note>
+      </trans-unit>
+      <trans-unit id="bkz-Kf-400.text" xml:space="preserve">
+        <source>Simple bagels</source>
+        <target>Simple bagels</target>
+        <note>Class = "UILabel"; text = "Simple bagels"; ObjectID = "bkz-Kf-400";</note>
+      </trans-unit>
+      <trans-unit id="c3d-hZ-JqJ.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "c3d-hZ-JqJ";</note>
+      </trans-unit>
+      <trans-unit id="c6R-NJ-YdZ.text" xml:space="preserve">
+        <source>17g</source>
+        <target>17g</target>
+        <note>Class = "UILabel"; text = "17g"; ObjectID = "c6R-NJ-YdZ";</note>
+      </trans-unit>
+      <trans-unit id="cAf-mL-GWk.text" xml:space="preserve">
+        <source>Dried carrots</source>
+        <target>Dried carrots</target>
+        <note>Class = "UILabel"; text = "Dried carrots"; ObjectID = "cAf-mL-GWk";</note>
+      </trans-unit>
+      <trans-unit id="cD3-NQ-z6V.text" xml:space="preserve">
+        <source>120mll</source>
+        <target>120mll</target>
+        <note>Class = "UILabel"; text = "120mll"; ObjectID = "cD3-NQ-z6V";</note>
+      </trans-unit>
+      <trans-unit id="cLx-Rz-1xh.text" xml:space="preserve">
+        <source>Pineapple juice</source>
+        <target>Pineapple juice</target>
+        <note>Class = "UILabel"; text = "Pineapple juice"; ObjectID = "cLx-Rz-1xh";</note>
+      </trans-unit>
+      <trans-unit id="cOl-70-eZm.text" xml:space="preserve">
+        <source>600 g</source>
+        <target>600 g</target>
+        <note>Class = "UILabel"; text = "600 g"; ObjectID = "cOl-70-eZm";</note>
+      </trans-unit>
+      <trans-unit id="cPI-Ms-pvd.text" xml:space="preserve">
+        <source>59g</source>
+        <target>59g</target>
+        <note>Class = "UILabel"; text = "59g"; ObjectID = "cPI-Ms-pvd";</note>
+      </trans-unit>
+      <trans-unit id="cWA-Hh-aLZ.text" xml:space="preserve">
+        <source>150g</source>
+        <target>150g</target>
+        <note>Class = "UILabel"; text = "150g"; ObjectID = "cWA-Hh-aLZ";</note>
+      </trans-unit>
+      <trans-unit id="cgE-D9-YgV.text" xml:space="preserve">
+        <source>Sweet curd</source>
+        <target>Sweet curd</target>
+        <note>Class = "UILabel"; text = "Sweet curd"; ObjectID = "cgE-D9-YgV";</note>
+      </trans-unit>
+      <trans-unit id="ckO-h0-shq.text" xml:space="preserve">
+        <source>250ml</source>
+        <target>250ml</target>
+        <note>Class = "UILabel"; text = "250ml"; ObjectID = "ckO-h0-shq";</note>
+      </trans-unit>
+      <trans-unit id="cql-YV-qSk.text" xml:space="preserve">
+        <source>Banana juice</source>
+        <target>Banana juice</target>
+        <note>Class = "UILabel"; text = "Banana juice"; ObjectID = "cql-YV-qSk";</note>
+      </trans-unit>
+      <trans-unit id="czf-4m-5Sd.text" xml:space="preserve">
+        <source>300g</source>
+        <target>300g</target>
+        <note>Class = "UILabel"; text = "300g"; ObjectID = "czf-4m-5Sd";</note>
+      </trans-unit>
+      <trans-unit id="d2O-hd-ONf.text" xml:space="preserve">
+        <source>Rosehip</source>
+        <target>Rosehip</target>
+        <note>Class = "UILabel"; text = "Rosehip"; ObjectID = "d2O-hd-ONf";</note>
+      </trans-unit>
+      <trans-unit id="d6O-49-V3i.text" xml:space="preserve">
+        <source>260ml</source>
+        <target>260ml</target>
+        <note>Class = "UILabel"; text = "260ml"; ObjectID = "d6O-49-V3i";</note>
+      </trans-unit>
+      <trans-unit id="dBt-9u-dQy.text" xml:space="preserve">
+        <source>170ml</source>
+        <target>170ml</target>
+        <note>Class = "UILabel"; text = "170ml"; ObjectID = "dBt-9u-dQy";</note>
+      </trans-unit>
+      <trans-unit id="dF3-QC-of7.text" xml:space="preserve">
+        <source>Grapefruit</source>
+        <target>Grapefruit</target>
+        <note>Class = "UILabel"; text = "Grapefruit"; ObjectID = "dF3-QC-of7";</note>
+      </trans-unit>
+      <trans-unit id="dSB-Gb-x1A.headerTitle" xml:space="preserve">
+        <source>the drinks</source>
+        <target>the drinks</target>
+        <note>Class = "UITableViewSection"; headerTitle = "the drinks"; ObjectID = "dSB-Gb-x1A";</note>
+      </trans-unit>
+      <trans-unit id="dTe-gs-fAH.text" xml:space="preserve">
+        <source>Pasteurized milk</source>
+        <target>Pasteurized milk</target>
+        <note>Class = "UILabel"; text = "Pasteurized milk"; ObjectID = "dTe-gs-fAH";</note>
+      </trans-unit>
+      <trans-unit id="dU9-Gi-Dh4.text" xml:space="preserve">
+        <source>Apricot juice</source>
+        <target>Apricot juice</target>
+        <note>Class = "UILabel"; text = "Apricot juice"; ObjectID = "dU9-Gi-Dh4";</note>
+      </trans-unit>
+      <trans-unit id="djM-eI-rEx.text" xml:space="preserve">
+        <source>130g</source>
+        <target>130g</target>
+        <note>Class = "UILabel"; text = "130g"; ObjectID = "djM-eI-rEx";</note>
+      </trans-unit>
+      <trans-unit id="dkA-QM-Y1q.text" xml:space="preserve">
+        <source>Diet rice flour</source>
+        <target>Diet rice flour</target>
+        <note>Class = "UILabel"; text = "Diet rice flour"; ObjectID = "dkA-QM-Y1q";</note>
+      </trans-unit>
+      <trans-unit id="dlo-5B-yNf.text" xml:space="preserve">
+        <source>120ml</source>
+        <target>120ml</target>
+        <note>Class = "UILabel"; text = "120ml"; ObjectID = "dlo-5B-yNf";</note>
+      </trans-unit>
+      <trans-unit id="dxz-ig-i3K.text" xml:space="preserve">
+        <source>Pasta, premium, dairy</source>
+        <target>Pasta, premium, dairy</target>
+        <note>Class = "UILabel"; text = "Pasta, premium, dairy"; ObjectID = "dxz-ig-i3K";</note>
+      </trans-unit>
+      <trans-unit id="eFN-MT-00f.text" xml:space="preserve">
+        <source>Oat groats </source>
+        <target>Oat groats </target>
+        <note>Class = "UILabel"; text = "Oat groats "; ObjectID = "eFN-MT-00f";</note>
+      </trans-unit>
+      <trans-unit id="eJK-NN-gGZ.text" xml:space="preserve">
+        <source>Pine nut</source>
+        <target>Pine nut</target>
+        <note>Class = "UILabel"; text = "Pine nut"; ObjectID = "eJK-NN-gGZ";</note>
+      </trans-unit>
+      <trans-unit id="eOA-Ag-Gld.text" xml:space="preserve">
+        <source>Cheese curds with vanilla</source>
+        <target>Cheese curds with vanilla</target>
+        <note>Class = "UILabel"; text = "Cheese curds with vanilla"; ObjectID = "eOA-Ag-Gld";</note>
+      </trans-unit>
+      <trans-unit id="eOV-GS-ZWU.text" xml:space="preserve">
+        <source>Waffles</source>
+        <target>Waffles</target>
+        <note>Class = "UILabel"; text = "Waffles"; ObjectID = "eOV-GS-ZWU";</note>
+      </trans-unit>
+      <trans-unit id="eOc-M1-RAw.text" xml:space="preserve">
+        <source>18g</source>
+        <target>18g</target>
+        <note>Class = "UILabel"; text = "18g"; ObjectID = "eOc-M1-RAw";</note>
+      </trans-unit>
+      <trans-unit id="eQr-Hz-5qg.text" xml:space="preserve">
+        <source>Rolls city</source>
+        <target>Rolls city</target>
+        <note>Class = "UILabel"; text = "Rolls city"; ObjectID = "eQr-Hz-5qg";</note>
+      </trans-unit>
+      <trans-unit id="eWw-ub-rfp.text" xml:space="preserve">
+        <source>Red Cabbage</source>
+        <target>Red Cabbage</target>
+        <note>Class = "UILabel"; text = "Red Cabbage"; ObjectID = "eWw-ub-rfp";</note>
+      </trans-unit>
+      <trans-unit id="eXN-ys-Jel.text" xml:space="preserve">
+        <source>Blueberry juice</source>
+        <target>Blueberry juice</target>
+        <note>Class = "UILabel"; text = "Blueberry juice"; ObjectID = "eXN-ys-Jel";</note>
+      </trans-unit>
+      <trans-unit id="eZq-xl-Avz.text" xml:space="preserve">
+        <source>10g</source>
+        <target>10g</target>
+        <note>Class = "UILabel"; text = "10g"; ObjectID = "eZq-xl-Avz";</note>
+      </trans-unit>
+      <trans-unit id="eaH-TT-HnI.headerTitle" xml:space="preserve">
+        <source>FRUITS</source>
+        <target>FRUITS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "FRUITS"; ObjectID = "eaH-TT-HnI";</note>
+      </trans-unit>
+      <trans-unit id="ehZ-6P-Mek.text" xml:space="preserve">
+        <source>12g</source>
+        <target>12g</target>
+        <note>Class = "UILabel"; text = "12g"; ObjectID = "ehZ-6P-Mek";</note>
+      </trans-unit>
+      <trans-unit id="epB-Em-qh7.headerTitle" xml:space="preserve">
+        <source>FERMENTED MILK PRODUCTS</source>
+        <target>FERMENTED MILK PRODUCTS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "FERMENTED MILK PRODUCTS"; ObjectID = "epB-Em-qh7";</note>
+      </trans-unit>
+      <trans-unit id="f1a-rN-fpG.text" xml:space="preserve">
+        <source>Shortbread cake with 
+cream</source>
+        <target>Shortbread cake with 
+cream</target>
+        <note>Class = "UILabel"; text = "Shortbread cake with \ncream"; ObjectID = "f1a-rN-fpG";</note>
+      </trans-unit>
+      <trans-unit id="fEs-vd-HHn.text" xml:space="preserve">
+        <source>Milk mare</source>
+        <target>Milk mare</target>
+        <note>Class = "UILabel"; text = "Milk mare"; ObjectID = "fEs-vd-HHn";</note>
+      </trans-unit>
+      <trans-unit id="fMi-pg-zTv.text" xml:space="preserve">
+        <source>Cranberry</source>
+        <target>Cranberry</target>
+        <note>Class = "UILabel"; text = "Cranberry"; ObjectID = "fMi-pg-zTv";</note>
+      </trans-unit>
+      <trans-unit id="fOW-2N-VuZ.text" xml:space="preserve">
+        <source>30g</source>
+        <target>30g</target>
+        <note>Class = "UILabel"; text = "30g"; ObjectID = "fOW-2N-VuZ";</note>
+      </trans-unit>
+      <trans-unit id="fSG-ZG-aqm.text" xml:space="preserve">
+        <source>35g</source>
+        <target>35g</target>
+        <note>Class = "UILabel"; text = "35g"; ObjectID = "fSG-ZG-aqm";</note>
+      </trans-unit>
+      <trans-unit id="fnM-ZD-Jde.text" xml:space="preserve">
+        <source>Mango</source>
+        <target>Mango</target>
+        <note>Class = "UILabel"; text = "Mango"; ObjectID = "fnM-ZD-Jde";</note>
+      </trans-unit>
+      <trans-unit id="frF-j0-x8S.text" xml:space="preserve">
+        <source>Cognac</source>
+        <target>Cognac</target>
+        <note>Class = "UILabel"; text = "Cognac"; ObjectID = "frF-j0-x8S";</note>
+      </trans-unit>
+      <trans-unit id="fvs-9l-WIx.text" xml:space="preserve">
+        <source>14 g</source>
+        <target>14 g</target>
+        <note>Class = "UILabel"; text = "14 g"; ObjectID = "fvs-9l-WIx";</note>
+      </trans-unit>
+      <trans-unit id="g3X-vD-ruE.text" xml:space="preserve">
+        <source>Marmalade</source>
+        <target>Marmalade</target>
+        <note>Class = "UILabel"; text = "Marmalade"; ObjectID = "g3X-vD-ruE";</note>
+      </trans-unit>
+      <trans-unit id="g4A-By-EjI.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydrates</source>
+        <target>1BU=10-12g of carbohydrates</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydrates"; ObjectID = "g4A-By-EjI";</note>
+      </trans-unit>
+      <trans-unit id="g9v-aJ-ZEQ.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "g9v-aJ-ZEQ";</note>
+      </trans-unit>
+      <trans-unit id="gJH-gY-HTL.text" xml:space="preserve">
+        <source>30g</source>
+        <target>30g</target>
+        <note>Class = "UILabel"; text = "30g"; ObjectID = "gJH-gY-HTL";</note>
+      </trans-unit>
+      <trans-unit id="gXI-4f-BXy.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "gXI-4f-BXy";</note>
+      </trans-unit>
+      <trans-unit id="gZQ-Et-zSI.text" xml:space="preserve">
+        <source>588g</source>
+        <target>588g</target>
+        <note>Class = "UILabel"; text = "588g"; ObjectID = "gZQ-Et-zSI";</note>
+      </trans-unit>
+      <trans-unit id="gb2-1n-2ui.text" xml:space="preserve">
+        <source>92g</source>
+        <target>92g</target>
+        <note>Class = "UILabel"; text = "92g"; ObjectID = "gb2-1n-2ui";</note>
+      </trans-unit>
+      <trans-unit id="gcR-Rr-NHJ.text" xml:space="preserve">
+        <source>Хлебные палочки</source>
+        <target>Хлебные палочки</target>
+        <note>Class = "UILabel"; text = "Хлебные палочки"; ObjectID = "gcR-Rr-NHJ";</note>
+      </trans-unit>
+      <trans-unit id="gfh-Bs-eCI.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "gfh-Bs-eCI";</note>
+      </trans-unit>
+      <trans-unit id="gkB-wB-K10.text" xml:space="preserve">
+        <source>Almond</source>
+        <target>Almond</target>
+        <note>Class = "UILabel"; text = "Almond"; ObjectID = "gkB-wB-K10";</note>
+      </trans-unit>
+      <trans-unit id="gvb-dF-v86.text" xml:space="preserve">
+        <source>Kiwi</source>
+        <target>Kiwi</target>
+        <note>Class = "UILabel"; text = "Kiwi"; ObjectID = "gvb-dF-v86";</note>
+      </trans-unit>
+      <trans-unit id="gzp-a8-jQ1.text" xml:space="preserve">
+        <source>Mango juice</source>
+        <target>Mango juice</target>
+        <note>Class = "UILabel"; text = "Mango juice"; ObjectID = "gzp-a8-jQ1";</note>
+      </trans-unit>
+      <trans-unit id="h0E-jB-eVO.text" xml:space="preserve">
+        <source>Semi-skimmed soy flour</source>
+        <target>Semi-skimmed soy flour</target>
+        <note>Class = "UILabel"; text = "Semi-skimmed soy flour"; ObjectID = "h0E-jB-eVO";</note>
+      </trans-unit>
+      <trans-unit id="h1i-hD-JQQ.text" xml:space="preserve">
+        <source>Cherry juice</source>
+        <target>Cherry juice</target>
+        <note>Class = "UILabel"; text = "Cherry juice"; ObjectID = "h1i-hD-JQQ";</note>
+      </trans-unit>
+      <trans-unit id="h7N-h4-DTV.headerTitle" xml:space="preserve">
+        <source>CONFECTIONERY</source>
+        <target>CONFECTIONERY</target>
+        <note>Class = "UITableViewSection"; headerTitle = "CONFECTIONERY"; ObjectID = "h7N-h4-DTV";</note>
+      </trans-unit>
+      <trans-unit id="hDf-gg-Abo.text" xml:space="preserve">
+        <source>Powdered sugar</source>
+        <target>Powdered sugar</target>
+        <note>Class = "UILabel"; text = "Powdered sugar"; ObjectID = "hDf-gg-Abo";</note>
+      </trans-unit>
+      <trans-unit id="hLc-pn-ocT.text" xml:space="preserve">
+        <source>150g</source>
+        <target>150g</target>
+        <note>Class = "UILabel"; text = "150g"; ObjectID = "hLc-pn-ocT";</note>
+      </trans-unit>
+      <trans-unit id="hOv-mr-OOw.text" xml:space="preserve">
+        <source>22g</source>
+        <target>22g</target>
+        <note>Class = "UILabel"; text = "22g"; ObjectID = "hOv-mr-OOw";</note>
+      </trans-unit>
+      <trans-unit id="hPU-dp-IB9.text" xml:space="preserve">
+        <source>100 ml</source>
+        <target>100 ml</target>
+        <note>Class = "UILabel"; text = "100 ml"; ObjectID = "hPU-dp-IB9";</note>
+      </trans-unit>
+      <trans-unit id="hR8-Qe-7kW.text" xml:space="preserve">
+        <source>White, grey bread 
+(except rich)</source>
+        <target>White, grey bread 
+(except rich)</target>
+        <note>Class = "UILabel"; text = "White, grey bread \n(except rich)"; ObjectID = "hR8-Qe-7kW";</note>
+      </trans-unit>
+      <trans-unit id="hRp-V8-cNZ.text" xml:space="preserve">
+        <source>30g</source>
+        <target>30g</target>
+        <note>Class = "UILabel"; text = "30g"; ObjectID = "hRp-V8-cNZ";</note>
+      </trans-unit>
+      <trans-unit id="hZS-b5-LeK.text" xml:space="preserve">
+        <source>Apple juice</source>
+        <target>Apple juice</target>
+        <note>Class = "UILabel"; text = "Apple juice"; ObjectID = "hZS-b5-LeK";</note>
+      </trans-unit>
+      <trans-unit id="hav-Hs-TAx.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "hav-Hs-TAx";</note>
+      </trans-unit>
+      <trans-unit id="hd2-lu-asi.text" xml:space="preserve">
+        <source>100mll</source>
+        <target>100mll</target>
+        <note>Class = "UILabel"; text = "100mll"; ObjectID = "hd2-lu-asi";</note>
+      </trans-unit>
+      <trans-unit id="he4-1I-onh.text" xml:space="preserve">
+        <source>Of durum wheat</source>
+        <target>Of durum wheat</target>
+        <note>Class = "UILabel"; text = "Of durum wheat"; ObjectID = "he4-1I-onh";</note>
+      </trans-unit>
+      <trans-unit id="he9-vU-8Yn.text" xml:space="preserve">
+        <source>12g</source>
+        <target>12g</target>
+        <note>Class = "UILabel"; text = "12g"; ObjectID = "he9-vU-8Yn";</note>
+      </trans-unit>
+      <trans-unit id="hfv-8d-sfs.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "hfv-8d-sfs";</note>
+      </trans-unit>
+      <trans-unit id="hnJ-ZR-mMK.text" xml:space="preserve">
+        <source>80mll</source>
+        <target>80mll</target>
+        <note>Class = "UILabel"; text = "80mll"; ObjectID = "hnJ-ZR-mMK";</note>
+      </trans-unit>
+      <trans-unit id="hny-dk-KOg.text" xml:space="preserve">
+        <source>120ml</source>
+        <target>120ml</target>
+        <note>Class = "UILabel"; text = "120ml"; ObjectID = "hny-dk-KOg";</note>
+      </trans-unit>
+      <trans-unit id="i09-2d-URI.text" xml:space="preserve">
+        <source>Dessert wine</source>
+        <target>Dessert wine</target>
+        <note>Class = "UILabel"; text = "Dessert wine"; ObjectID = "i09-2d-URI";</note>
+      </trans-unit>
+      <trans-unit id="iD0-Pe-amu.text" xml:space="preserve">
+        <source>Goat milk</source>
+        <target>Goat milk</target>
+        <note>Class = "UILabel"; text = "Goat milk"; ObjectID = "iD0-Pe-amu";</note>
+      </trans-unit>
+      <trans-unit id="iGZ-eI-4dy.text" xml:space="preserve">
+        <source>50ml</source>
+        <target>50ml</target>
+        <note>Class = "UILabel"; text = "50ml"; ObjectID = "iGZ-eI-4dy";</note>
+      </trans-unit>
+      <trans-unit id="iI6-0h-aAJ.text" xml:space="preserve">
+        <source>30 g</source>
+        <target>30 g</target>
+        <note>Class = "UILabel"; text = "30 g"; ObjectID = "iI6-0h-aAJ";</note>
+      </trans-unit>
+      <trans-unit id="iJO-83-S62.text" xml:space="preserve">
+        <source>Cake, puff with cream</source>
+        <target>Cake, puff with cream</target>
+        <note>Class = "UILabel"; text = "Cake, puff with cream"; ObjectID = "iJO-83-S62";</note>
+      </trans-unit>
+      <trans-unit id="iYc-2N-OzZ.text" xml:space="preserve">
+        <source>300g</source>
+        <target>300g</target>
+        <note>Class = "UILabel"; text = "300g"; ObjectID = "iYc-2N-OzZ";</note>
+      </trans-unit>
+      <trans-unit id="ie5-fa-Q62.text" xml:space="preserve">
+        <source>Crisp bread</source>
+        <target>Crisp bread</target>
+        <note>Class = "UILabel"; text = "Crisp bread"; ObjectID = "ie5-fa-Q62";</note>
+      </trans-unit>
+      <trans-unit id="inO-og-imW.text" xml:space="preserve">
+        <source>Cola (Coca-Cola)</source>
+        <target>Cola (Coca-Cola)</target>
+        <note>Class = "UILabel"; text = "Cola (Coca-Cola)"; ObjectID = "inO-og-imW";</note>
+      </trans-unit>
+      <trans-unit id="itx-Me-r29.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "itx-Me-r29";</note>
+      </trans-unit>
+      <trans-unit id="ivn-Tz-qCf.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "ivn-Tz-qCf";</note>
+      </trans-unit>
+      <trans-unit id="izk-hf-821.text" xml:space="preserve">
+        <source>17g</source>
+        <target>17g</target>
+        <note>Class = "UILabel"; text = "17g"; ObjectID = "izk-hf-821";</note>
+      </trans-unit>
+      <trans-unit id="j3G-Ow-rnY.text" xml:space="preserve">
+        <source>18g</source>
+        <target>18g</target>
+        <note>Class = "UILabel"; text = "18g"; ObjectID = "j3G-Ow-rnY";</note>
+      </trans-unit>
+      <trans-unit id="j5F-BT-H4k.text" xml:space="preserve">
+        <source>Papaya juice</source>
+        <target>Papaya juice</target>
+        <note>Class = "UILabel"; text = "Papaya juice"; ObjectID = "j5F-BT-H4k";</note>
+      </trans-unit>
+      <trans-unit id="j7b-Rx-wgD.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "j7b-Rx-wgD";</note>
+      </trans-unit>
+      <trans-unit id="jFV-sO-0if.text" xml:space="preserve">
+        <source>250ml</source>
+        <target>250ml</target>
+        <note>Class = "UILabel"; text = "250ml"; ObjectID = "jFV-sO-0if";</note>
+      </trans-unit>
+      <trans-unit id="jKZ-Pq-EMp.text" xml:space="preserve">
+        <source>Polished millet</source>
+        <target>Polished millet</target>
+        <note>Class = "UILabel"; text = "Polished millet"; ObjectID = "jKZ-Pq-EMp";</note>
+      </trans-unit>
+      <trans-unit id="jLb-oT-3q1.text" xml:space="preserve">
+        <source>Oatmeal cookies</source>
+        <target>Oatmeal cookies</target>
+        <note>Class = "UILabel"; text = "Oatmeal cookies"; ObjectID = "jLb-oT-3q1";</note>
+      </trans-unit>
+      <trans-unit id="jRC-92-zy7.text" xml:space="preserve">
+        <source>150 g</source>
+        <target>150 g</target>
+        <note>Class = "UILabel"; text = "150 g"; ObjectID = "jRC-92-zy7";</note>
+      </trans-unit>
+      <trans-unit id="jWC-Mk-9YJ.text" xml:space="preserve">
+        <source>30g</source>
+        <target>30g</target>
+        <note>Class = "UILabel"; text = "30g"; ObjectID = "jWC-Mk-9YJ";</note>
+      </trans-unit>
+      <trans-unit id="jaK-Pa-ann.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "jaK-Pa-ann";</note>
+      </trans-unit>
+      <trans-unit id="joh-Ic-u3d.text" xml:space="preserve">
+        <source>125ml</source>
+        <target>125ml</target>
+        <note>Class = "UILabel"; text = "125ml"; ObjectID = "joh-Ic-u3d";</note>
+      </trans-unit>
+      <trans-unit id="jv0-No-tsJ.text" xml:space="preserve">
+        <source>17g</source>
+        <target>17g</target>
+        <note>Class = "UILabel"; text = "17g"; ObjectID = "jv0-No-tsJ";</note>
+      </trans-unit>
+      <trans-unit id="jwO-9T-wbN.headerTitle" xml:space="preserve">
+        <source>CEREALS</source>
+        <target>CEREALS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "CEREALS"; ObjectID = "jwO-9T-wbN";</note>
+      </trans-unit>
+      <trans-unit id="jxJ-p5-xGQ.title" xml:space="preserve">
+        <source>FAVORITES</source>
+        <target>FAVORITES</target>
+        <note>Class = "UINavigationItem"; title = "FAVORITES"; ObjectID = "jxJ-p5-xGQ";</note>
+      </trans-unit>
+      <trans-unit id="kFH-9L-obU.text" xml:space="preserve">
+        <source>Cocoa beans</source>
+        <target>Cocoa beans</target>
+        <note>Class = "UILabel"; text = "Cocoa beans"; ObjectID = "kFH-9L-obU";</note>
+      </trans-unit>
+      <trans-unit id="kHf-N9-Isx.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "kHf-N9-Isx";</note>
+      </trans-unit>
+      <trans-unit id="kLO-hB-4RY.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "kLO-hB-4RY";</note>
+      </trans-unit>
+      <trans-unit id="kP1-Yj-2an.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "kP1-Yj-2an";</note>
+      </trans-unit>
+      <trans-unit id="kQ6-Yf-2ve.text" xml:space="preserve">
+        <source>Cow's milk</source>
+        <target>Cow's milk</target>
+        <note>Class = "UILabel"; text = "Cow's milk"; ObjectID = "kQ6-Yf-2ve";</note>
+      </trans-unit>
+      <trans-unit id="kQw-Ry-DsS.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "kQw-Ry-DsS";</note>
+      </trans-unit>
+      <trans-unit id="kS8-mu-ShG.text" xml:space="preserve">
+        <source>Almond cake</source>
+        <target>Almond cake</target>
+        <note>Class = "UILabel"; text = "Almond cake"; ObjectID = "kS8-mu-ShG";</note>
+      </trans-unit>
+      <trans-unit id="kUT-HP-IH6.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "kUT-HP-IH6";</note>
+      </trans-unit>
+      <trans-unit id="kUU-bR-Gq0.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydrates</source>
+        <target>1BU=10-12g of carbohydrates</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydrates"; ObjectID = "kUU-bR-Gq0";</note>
+      </trans-unit>
+      <trans-unit id="kaX-Uq-irR.text" xml:space="preserve">
+        <source>16 g</source>
+        <target>16 g</target>
+        <note>Class = "UILabel"; text = "16 g"; ObjectID = "kaX-Uq-irR";</note>
+      </trans-unit>
+      <trans-unit id="ksz-iK-Iqc.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "ksz-iK-Iqc";</note>
+      </trans-unit>
+      <trans-unit id="ktX-8L-bz3.text" xml:space="preserve">
+        <source>Apples</source>
+        <target>Apples</target>
+        <note>Class = "UILabel"; text = "Apples"; ObjectID = "ktX-8L-bz3";</note>
+      </trans-unit>
+      <trans-unit id="kud-sg-2XU.text" xml:space="preserve">
+        <source>Natural yoghurt</source>
+        <target>Natural yoghurt</target>
+        <note>Class = "UILabel"; text = "Natural yoghurt"; ObjectID = "kud-sg-2XU";</note>
+      </trans-unit>
+      <trans-unit id="kxb-u2-X7K.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "kxb-u2-X7K";</note>
+      </trans-unit>
+      <trans-unit id="l8I-6U-htd.text" xml:space="preserve">
+        <source>Beans (pod)</source>
+        <target>Beans (pod)</target>
+        <note>Class = "UILabel"; text = "Beans (pod)"; ObjectID = "l8I-6U-htd";</note>
+      </trans-unit>
+      <trans-unit id="l9d-03-tBh.text" xml:space="preserve">
+        <source>500g</source>
+        <target>500g</target>
+        <note>Class = "UILabel"; text = "500g"; ObjectID = "l9d-03-tBh";</note>
+      </trans-unit>
+      <trans-unit id="lEQ-D3-RtH.text" xml:space="preserve">
+        <source>Wine sweet white,
+red</source>
+        <target>Wine sweet white,
+red</target>
+        <note>Class = "UILabel"; text = "Wine sweet white,\nred"; ObjectID = "lEQ-D3-RtH";</note>
+      </trans-unit>
+      <trans-unit id="lLj-Le-5ER.text" xml:space="preserve">
+        <source>Sweet straw</source>
+        <target>Sweet straw</target>
+        <note>Class = "UILabel"; text = "Sweet straw"; ObjectID = "lLj-Le-5ER";</note>
+      </trans-unit>
+      <trans-unit id="lP4-VR-064.text" xml:space="preserve">
+        <source>Cauliflower</source>
+        <target>Cauliflower</target>
+        <note>Class = "UILabel"; text = "Cauliflower"; ObjectID = "lP4-VR-064";</note>
+      </trans-unit>
+      <trans-unit id="lZG-KL-LOx.text" xml:space="preserve">
+        <source>250 ml</source>
+        <target>250 ml</target>
+        <note>Class = "UILabel"; text = "250 ml"; ObjectID = "lZG-KL-LOx";</note>
+      </trans-unit>
+      <trans-unit id="lc4-PB-0bP.text" xml:space="preserve">
+        <source>17g</source>
+        <target>17g</target>
+        <note>Class = "UILabel"; text = "17g"; ObjectID = "lc4-PB-0bP";</note>
+      </trans-unit>
+      <trans-unit id="m6n-CN-zMb.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "m6n-CN-zMb";</note>
+      </trans-unit>
+      <trans-unit id="mDI-G5-T6B.text" xml:space="preserve">
+        <source>Dried fig</source>
+        <target>Dried fig</target>
+        <note>Class = "UILabel"; text = "Dried fig"; ObjectID = "mDI-G5-T6B";</note>
+      </trans-unit>
+      <trans-unit id="mDt-mQ-dUT.text" xml:space="preserve">
+        <source>PRODUCTS DOESN’T 
+INCREASESUGAR IN 
+BLOOD
+</source>
+        <target>PRODUCTS DOESN’T 
+INCREASESUGAR IN 
+BLOOD
+</target>
+        <note>Class = "UILabel"; text = "PRODUCTS DOESN’T \nINCREASESUGAR IN \nBLOOD\n"; ObjectID = "mDt-mQ-dUT";</note>
+      </trans-unit>
+      <trans-unit id="mKS-Mk-yL8.text" xml:space="preserve">
+        <source>Rosehip dry</source>
+        <target>Rosehip dry</target>
+        <note>Class = "UILabel"; text = "Rosehip dry"; ObjectID = "mKS-Mk-yL8";</note>
+      </trans-unit>
+      <trans-unit id="mNC-gb-I7G.text" xml:space="preserve">
+        <source>50ml</source>
+        <target>50ml</target>
+        <note>Class = "UILabel"; text = "50ml"; ObjectID = "mNC-gb-I7G";</note>
+      </trans-unit>
+      <trans-unit id="mRR-iy-6Zi.text" xml:space="preserve">
+        <source>Schnapps 40%</source>
+        <target>Schnapps 40%</target>
+        <note>Class = "UILabel"; text = "Schnapps 40%"; ObjectID = "mRR-iy-6Zi";</note>
+      </trans-unit>
+      <trans-unit id="ma3-G6-b30.text" xml:space="preserve">
+        <source>Cranberry juice</source>
+        <target>Cranberry juice</target>
+        <note>Class = "UILabel"; text = "Cranberry juice"; ObjectID = "ma3-G6-b30";</note>
+      </trans-unit>
+      <trans-unit id="miT-f8-sfr.text" xml:space="preserve">
+        <source>185mll</source>
+        <target>185mll</target>
+        <note>Class = "UILabel"; text = "185mll"; ObjectID = "miT-f8-sfr";</note>
+      </trans-unit>
+      <trans-unit id="mk2-lg-By9.text" xml:space="preserve">
+        <source>Pea groats *</source>
+        <target>Pea groats *</target>
+        <note>Class = "UILabel"; text = "Pea groats *"; ObjectID = "mk2-lg-By9";</note>
+      </trans-unit>
+      <trans-unit id="myi-Gs-muk.text" xml:space="preserve">
+        <source>From flour of the 
+first grade</source>
+        <target>From flour of the 
+first grade</target>
+        <note>Class = "UILabel"; text = "From flour of the \nfirst grade"; ObjectID = "myi-Gs-muk";</note>
+      </trans-unit>
+      <trans-unit id="nEa-iC-QsG.text" xml:space="preserve">
+        <source>CONFECTIONERY</source>
+        <target>CONFECTIONERY</target>
+        <note>Class = "UILabel"; text = "CONFECTIONERY"; ObjectID = "nEa-iC-QsG";</note>
+      </trans-unit>
+      <trans-unit id="nGH-da-URs.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "nGH-da-URs";</note>
+      </trans-unit>
+      <trans-unit id="nHC-y6-Moq.text" xml:space="preserve">
+        <source>18 g</source>
+        <target>18 g</target>
+        <note>Class = "UILabel"; text = "18 g"; ObjectID = "nHC-y6-Moq";</note>
+      </trans-unit>
+      <trans-unit id="nUu-RO-F6s.text" xml:space="preserve">
+        <source>Grapefruit juice</source>
+        <target>Grapefruit juice</target>
+        <note>Class = "UILabel"; text = "Grapefruit juice"; ObjectID = "nUu-RO-F6s";</note>
+      </trans-unit>
+      <trans-unit id="nW2-id-Oib.text" xml:space="preserve">
+        <source>Buckwheat flour</source>
+        <target>Buckwheat flour</target>
+        <note>Class = "UILabel"; text = "Buckwheat flour"; ObjectID = "nW2-id-Oib";</note>
+      </trans-unit>
+      <trans-unit id="ndh-G5-Kg4.text" xml:space="preserve">
+        <source>Pizza</source>
+        <target>Pizza</target>
+        <note>Class = "UILabel"; text = "Pizza"; ObjectID = "ndh-G5-Kg4";</note>
+      </trans-unit>
+      <trans-unit id="ndx-rl-SBs.text" xml:space="preserve">
+        <source>15g</source>
+        <target>15g</target>
+        <note>Class = "UILabel"; text = "15g"; ObjectID = "ndx-rl-SBs";</note>
+      </trans-unit>
+      <trans-unit id="npo-KZ-zQb.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "npo-KZ-zQb";</note>
+      </trans-unit>
+      <trans-unit id="nqe-kP-AcD.text" xml:space="preserve">
+        <source>70ml</source>
+        <target>70ml</target>
+        <note>Class = "UILabel"; text = "70ml"; ObjectID = "nqe-kP-AcD";</note>
+      </trans-unit>
+      <trans-unit id="nuF-jB-T9h.text" xml:space="preserve">
+        <source>Pomegranate juice</source>
+        <target>Pomegranate juice</target>
+        <note>Class = "UILabel"; text = "Pomegranate juice"; ObjectID = "nuF-jB-T9h";</note>
+      </trans-unit>
+      <trans-unit id="nwv-IR-NKg.text" xml:space="preserve">
+        <source>CALORIES</source>
+        <target>CALORIES</target>
+        <note>Class = "UILabel"; text = "CALORIES"; ObjectID = "nwv-IR-NKg";</note>
+      </trans-unit>
+      <trans-unit id="oDV-9P-8jS.text" xml:space="preserve">
+        <source>Oat bran</source>
+        <target>Oat bran</target>
+        <note>Class = "UILabel"; text = "Oat bran"; ObjectID = "oDV-9P-8jS";</note>
+      </trans-unit>
+      <trans-unit id="oGb-e3-iJL.text" xml:space="preserve">
+        <source>110g</source>
+        <target>110g</target>
+        <note>Class = "UILabel"; text = "110g"; ObjectID = "oGb-e3-iJL";</note>
+      </trans-unit>
+      <trans-unit id="oQ2-j9-47q.text" xml:space="preserve">
+        <source>Dogwood</source>
+        <target>Dogwood</target>
+        <note>Class = "UILabel"; text = "Dogwood"; ObjectID = "oQ2-j9-47q";</note>
+      </trans-unit>
+      <trans-unit id="odn-o5-fhD.text" xml:space="preserve">
+        <source>Granulated sugar</source>
+        <target>Granulated sugar</target>
+        <note>Class = "UILabel"; text = "Granulated sugar"; ObjectID = "odn-o5-fhD";</note>
+      </trans-unit>
+      <trans-unit id="ohE-7k-fY7.text" xml:space="preserve">
+        <source>Sake</source>
+        <target>Sake</target>
+        <note>Class = "UILabel"; text = "Sake"; ObjectID = "ohE-7k-fY7";</note>
+      </trans-unit>
+      <trans-unit id="oip-Yp-w2B.text" xml:space="preserve">
+        <source>18 g</source>
+        <target>18 g</target>
+        <note>Class = "UILabel"; text = "18 g"; ObjectID = "oip-Yp-w2B";</note>
+      </trans-unit>
+      <trans-unit id="opJ-z2-cQw.text" xml:space="preserve">
+        <source>60g</source>
+        <target>60g</target>
+        <note>Class = "UILabel"; text = "60g"; ObjectID = "opJ-z2-cQw";</note>
+      </trans-unit>
+      <trans-unit id="ouI-k4-6yZ.text" xml:space="preserve">
+        <source>29g</source>
+        <target>29g</target>
+        <note>Class = "UILabel"; text = "29g"; ObjectID = "ouI-k4-6yZ";</note>
+      </trans-unit>
+      <trans-unit id="oxe-Zy-8z5.text" xml:space="preserve">
+        <source>Sweet pepper,
+Red Green,yellow</source>
+        <target>Sweet pepper,
+Red Green,yellow</target>
+        <note>Class = "UILabel"; text = "Sweet pepper,\nRed Green,yellow"; ObjectID = "oxe-Zy-8z5";</note>
+      </trans-unit>
+      <trans-unit id="p6b-YH-bs5.text" xml:space="preserve">
+        <source>Sour milk</source>
+        <target>Sour milk</target>
+        <note>Class = "UILabel"; text = "Sour milk"; ObjectID = "p6b-YH-bs5";</note>
+      </trans-unit>
+      <trans-unit id="p9U-vM-Dkc.text" xml:space="preserve">
+        <source>Fruit yogurt</source>
+        <target>Fruit yogurt</target>
+        <note>Class = "UILabel"; text = "Fruit yogurt"; ObjectID = "p9U-vM-Dkc";</note>
+      </trans-unit>
+      <trans-unit id="pBM-gP-k7P.text" xml:space="preserve">
+        <source>Cucumber Juice</source>
+        <target>Cucumber Juice</target>
+        <note>Class = "UILabel"; text = "Cucumber Juice"; ObjectID = "pBM-gP-k7P";</note>
+      </trans-unit>
+      <trans-unit id="pEB-gn-xm2.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "pEB-gn-xm2";</note>
+      </trans-unit>
+      <trans-unit id="pQr-sG-XjG.text" xml:space="preserve">
+        <source>300 g</source>
+        <target>300 g</target>
+        <note>Class = "UILabel"; text = "300 g"; ObjectID = "pQr-sG-XjG";</note>
+      </trans-unit>
+      <trans-unit id="pxw-xZ-DOa.text" xml:space="preserve">
+        <source>Gingerbreads</source>
+        <target>Gingerbreads</target>
+        <note>Class = "UILabel"; text = "Gingerbreads"; ObjectID = "pxw-xZ-DOa";</note>
+      </trans-unit>
+      <trans-unit id="pyB-vZ-d0p.text" xml:space="preserve">
+        <source>Soy Vermicelli</source>
+        <target>Soy Vermicelli</target>
+        <note>Class = "UILabel"; text = "Soy Vermicelli"; ObjectID = "pyB-vZ-d0p";</note>
+      </trans-unit>
+      <trans-unit id="pz2-JM-vCW.text" xml:space="preserve">
+        <source>110ml</source>
+        <target>110ml</target>
+        <note>Class = "UILabel"; text = "110ml"; ObjectID = "pz2-JM-vCW";</note>
+      </trans-unit>
+      <trans-unit id="q1T-DG-CsT.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "q1T-DG-CsT";</note>
+      </trans-unit>
+      <trans-unit id="q1p-2D-bO9.text" xml:space="preserve">
+        <source>30 g</source>
+        <target>30 g</target>
+        <note>Class = "UILabel"; text = "30 g"; ObjectID = "q1p-2D-bO9";</note>
+      </trans-unit>
+      <trans-unit id="q5R-aY-ZTs.text" xml:space="preserve">
+        <source>300 g</source>
+        <target>300 g</target>
+        <note>Class = "UILabel"; text = "300 g"; ObjectID = "q5R-aY-ZTs";</note>
+      </trans-unit>
+      <trans-unit id="q6f-Ct-m04.text" xml:space="preserve">
+        <source>20г</source>
+        <target>20г</target>
+        <note>Class = "UILabel"; text = "20г"; ObjectID = "q6f-Ct-m04";</note>
+      </trans-unit>
+      <trans-unit id="q8F-6Y-gD9.text" xml:space="preserve">
+        <source>Bread with bran</source>
+        <target>Bread with bran</target>
+        <note>Class = "UILabel"; text = "Bread with bran"; ObjectID = "q8F-6Y-gD9";</note>
+      </trans-unit>
+      <trans-unit id="qAk-BY-gBu.text" xml:space="preserve">
+        <source>Nut cookies</source>
+        <target>Nut cookies</target>
+        <note>Class = "UILabel"; text = "Nut cookies"; ObjectID = "qAk-BY-gBu";</note>
+      </trans-unit>
+      <trans-unit id="qDB-24-yNf.text" xml:space="preserve">
+        <source>300ml</source>
+        <target>300ml</target>
+        <note>Class = "UILabel"; text = "300ml"; ObjectID = "qDB-24-yNf";</note>
+      </trans-unit>
+      <trans-unit id="qE8-Iu-M0S.headerTitle" xml:space="preserve">
+        <source>NUTS</source>
+        <target>NUTS</target>
+        <note>Class = "UITableViewSection"; headerTitle = "NUTS"; ObjectID = "qE8-Iu-M0S";</note>
+      </trans-unit>
+      <trans-unit id="qLx-RK-Gc9.text" xml:space="preserve">
+        <source>Bagels, Ukrainian with 
+poppy seeds</source>
+        <target>Bagels, Ukrainian with 
+poppy seeds</target>
+        <note>Class = "UILabel"; text = "Bagels, Ukrainian with \npoppy seeds"; ObjectID = "qLx-RK-Gc9";</note>
+      </trans-unit>
+      <trans-unit id="qQ9-DC-sux.text" xml:space="preserve">
+        <source>18g</source>
+        <target>18g</target>
+        <note>Class = "UILabel"; text = "18g"; ObjectID = "qQ9-DC-sux";</note>
+      </trans-unit>
+      <trans-unit id="qVc-TH-ObA.text" xml:space="preserve">
+        <source>110g</source>
+        <target>110g</target>
+        <note>Class = "UILabel"; text = "110g"; ObjectID = "qVc-TH-ObA";</note>
+      </trans-unit>
+      <trans-unit id="qX1-f3-rC1.text" xml:space="preserve">
+        <source>200ml</source>
+        <target>200ml</target>
+        <note>Class = "UILabel"; text = "200ml"; ObjectID = "qX1-f3-rC1";</note>
+      </trans-unit>
+      <trans-unit id="qco-BI-NQ5.headerTitle" xml:space="preserve">
+        <source>JUCES</source>
+        <target>JUCES</target>
+        <note>Class = "UITableViewSection"; headerTitle = "JUCES"; ObjectID = "qco-BI-NQ5";</note>
+      </trans-unit>
+      <trans-unit id="qf6-aQ-uW1.text" xml:space="preserve">
+        <source>100g</source>
+        <target>100g</target>
+        <note>Class = "UILabel"; text = "100g"; ObjectID = "qf6-aQ-uW1";</note>
+      </trans-unit>
+      <trans-unit id="qfR-XW-XZi.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "qfR-XW-XZi";</note>
+      </trans-unit>
+      <trans-unit id="qh4-78-2qT.text" xml:space="preserve">
+        <source>13g</source>
+        <target>13g</target>
+        <note>Class = "UILabel"; text = "13g"; ObjectID = "qh4-78-2qT";</note>
+      </trans-unit>
+      <trans-unit id="qle-Td-GZ6.text" xml:space="preserve">
+        <source>Dumplings with
+ cottage cheese</source>
+        <target>Dumplings with
+ cottage cheese</target>
+        <note>Class = "UILabel"; text = "Dumplings with\n cottage cheese"; ObjectID = "qle-Td-GZ6";</note>
+      </trans-unit>
+      <trans-unit id="qqo-ny-5WK.text" xml:space="preserve">
+        <source>50ml</source>
+        <target>50ml</target>
+        <note>Class = "UILabel"; text = "50ml"; ObjectID = "qqo-ny-5WK";</note>
+      </trans-unit>
+      <trans-unit id="qvC-f8-uAs.text" xml:space="preserve">
+        <source>Onion</source>
+        <target>Onion</target>
+        <note>Class = "UILabel"; text = "Onion"; ObjectID = "qvC-f8-uAs";</note>
+      </trans-unit>
+      <trans-unit id="r1M-Ch-2Wm.text" xml:space="preserve">
+        <source>dried sultanas grapes</source>
+        <target>dried sultanas grapes</target>
+        <note>Class = "UILabel"; text = "dried sultanas grapes"; ObjectID = "r1M-Ch-2Wm";</note>
+      </trans-unit>
+      <trans-unit id="r6l-4d-XSi.text" xml:space="preserve">
+        <source>140ml</source>
+        <target>140ml</target>
+        <note>Class = "UILabel"; text = "140ml"; ObjectID = "r6l-4d-XSi";</note>
+      </trans-unit>
+      <trans-unit id="rGq-ka-12L.text" xml:space="preserve">
+        <source>Easter cake</source>
+        <target>Easter cake</target>
+        <note>Class = "UILabel"; text = "Easter cake"; ObjectID = "rGq-ka-12L";</note>
+      </trans-unit>
+      <trans-unit id="rHD-o7-LDk.text" xml:space="preserve">
+        <source>10g</source>
+        <target>10g</target>
+        <note>Class = "UILabel"; text = "10g"; ObjectID = "rHD-o7-LDk";</note>
+      </trans-unit>
+      <trans-unit id="ryX-Cg-ehu.text" xml:space="preserve">
+        <source>Pum</source>
+        <target>Pum</target>
+        <note>Class = "UILabel"; text = "Pum"; ObjectID = "ryX-Cg-ehu";</note>
+      </trans-unit>
+      <trans-unit id="s0B-rU-UiD.text" xml:space="preserve">
+        <source>Acidophilus (any fat)</source>
+        <target>Acidophilus (any fat)</target>
+        <note>Class = "UILabel"; text = "Acidophilus (any fat)"; ObjectID = "s0B-rU-UiD";</note>
+      </trans-unit>
+      <trans-unit id="s7l-sm-vtz.text" xml:space="preserve">
+        <source>21g</source>
+        <target>21g</target>
+        <note>Class = "UILabel"; text = "21g"; ObjectID = "s7l-sm-vtz";</note>
+      </trans-unit>
+      <trans-unit id="s17-RC-8nr.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "s17-RC-8nr";</note>
+      </trans-unit>
+      <trans-unit id="sAr-2W-Uoc.text" xml:space="preserve">
+        <source>160ml</source>
+        <target>160ml</target>
+        <note>Class = "UILabel"; text = "160ml"; ObjectID = "sAr-2W-Uoc";</note>
+      </trans-unit>
+      <trans-unit id="sEq-gd-V21.text" xml:space="preserve">
+        <source>Pumpkin</source>
+        <target>Pumpkin</target>
+        <note>Class = "UILabel"; text = "Pumpkin"; ObjectID = "sEq-gd-V21";</note>
+      </trans-unit>
+      <trans-unit id="sH6-1v-HnT.text" xml:space="preserve">
+        <source>200g</source>
+        <target>200g</target>
+        <note>Class = "UILabel"; text = "200g"; ObjectID = "sH6-1v-HnT";</note>
+      </trans-unit>
+      <trans-unit id="saX-dd-Yoq.text" xml:space="preserve">
+        <source>Stone berry</source>
+        <target>Stone berry</target>
+        <note>Class = "UILabel"; text = "Stone berry"; ObjectID = "saX-dd-Yoq";</note>
+      </trans-unit>
+      <trans-unit id="smm-T0-bdb.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "smm-T0-bdb";</note>
+      </trans-unit>
+      <trans-unit id="t0C-lU-A9j.text" xml:space="preserve">
+        <source>12g</source>
+        <target>12g</target>
+        <note>Class = "UILabel"; text = "12g"; ObjectID = "t0C-lU-A9j";</note>
+      </trans-unit>
+      <trans-unit id="t5D-x8-eAm.text" xml:space="preserve">
+        <source>Rum</source>
+        <target>Rum</target>
+        <note>Class = "UILabel"; text = "Rum"; ObjectID = "t5D-x8-eAm";</note>
+      </trans-unit>
+      <trans-unit id="t9b-cQ-p0J.text" xml:space="preserve">
+        <source>Strawberry Juice</source>
+        <target>Strawberry Juice</target>
+        <note>Class = "UILabel"; text = "Strawberry Juice"; ObjectID = "t9b-cQ-p0J";</note>
+      </trans-unit>
+      <trans-unit id="t53-4Y-3pg.text" xml:space="preserve">
+        <source>Mineral water </source>
+        <target>Mineral water </target>
+        <note>Class = "UILabel"; text = "Mineral water "; ObjectID = "t53-4Y-3pg";</note>
+      </trans-unit>
+      <trans-unit id="tFL-aV-P9f.text" xml:space="preserve">
+        <source>18g</source>
+        <target>18g</target>
+        <note>Class = "UILabel"; text = "18g"; ObjectID = "tFL-aV-P9f";</note>
+      </trans-unit>
+      <trans-unit id="tKg-Z1-h94.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "tKg-Z1-h94";</note>
+      </trans-unit>
+      <trans-unit id="tM2-vM-rnO.text" xml:space="preserve">
+        <source>Mirinda (Mirinda)</source>
+        <target>Mirinda (Mirinda)</target>
+        <note>Class = "UILabel"; text = "Mirinda (Mirinda)"; ObjectID = "tM2-vM-rnO";</note>
+      </trans-unit>
+      <trans-unit id="tS7-vK-2x0.text" xml:space="preserve">
+        <source>400g</source>
+        <target>400g</target>
+        <note>Class = "UILabel"; text = "400g"; ObjectID = "tS7-vK-2x0";</note>
+      </trans-unit>
+      <trans-unit id="tdt-ls-eYN.text" xml:space="preserve">
+        <source>Red currant. Black</source>
+        <target>Red currant. Black</target>
+        <note>Class = "UILabel"; text = "Red currant. Black"; ObjectID = "tdt-ls-eYN";</note>
+      </trans-unit>
+      <trans-unit id="tgx-d6-Qf3.text" xml:space="preserve">
+        <source>75 g</source>
+        <target>75 g</target>
+        <note>Class = "UILabel"; text = "75 g"; ObjectID = "tgx-d6-Qf3";</note>
+      </trans-unit>
+      <trans-unit id="thO-zn-lzQ.text" xml:space="preserve">
+        <source>Сashew nut</source>
+        <target>Сashew nut</target>
+        <note>Class = "UILabel"; text = "Сashew nut"; ObjectID = "thO-zn-lzQ";</note>
+      </trans-unit>
+      <trans-unit id="tlS-uN-mtt.text" xml:space="preserve">
+        <source>Caramel candy</source>
+        <target>Caramel candy</target>
+        <note>Class = "UILabel"; text = "Caramel candy"; ObjectID = "tlS-uN-mtt";</note>
+      </trans-unit>
+      <trans-unit id="too-Mi-edo.text" xml:space="preserve">
+        <source>Orange</source>
+        <target>Orange</target>
+        <note>Class = "UILabel"; text = "Orange"; ObjectID = "too-Mi-edo";</note>
+      </trans-unit>
+      <trans-unit id="tot-eL-ewT.text" xml:space="preserve">
+        <source>Flour
+soft wheat varieties</source>
+        <target>Flour
+soft wheat varieties</target>
+        <note>Class = "UILabel"; text = "Flour\nsoft wheat varieties"; ObjectID = "tot-eL-ewT";</note>
+      </trans-unit>
+      <trans-unit id="u6H-9x-18H.text" xml:space="preserve">
+        <source>130ml</source>
+        <target>130ml</target>
+        <note>Class = "UILabel"; text = "130ml"; ObjectID = "u6H-9x-18H";</note>
+      </trans-unit>
+      <trans-unit id="uIS-1Q-dhU.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "uIS-1Q-dhU";</note>
+      </trans-unit>
+      <trans-unit id="uJF-Iq-2RU.text" xml:space="preserve">
+        <source>60g</source>
+        <target>60g</target>
+        <note>Class = "UILabel"; text = "60g"; ObjectID = "uJF-Iq-2RU";</note>
+      </trans-unit>
+      <trans-unit id="uJX-dE-4gg.text" xml:space="preserve">
+        <source>Chocolate</source>
+        <target>Chocolate</target>
+        <note>Class = "UILabel"; text = "Chocolate"; ObjectID = "uJX-dE-4gg";</note>
+      </trans-unit>
+      <trans-unit id="ubO-9S-2Ae.text" xml:space="preserve">
+        <source>Medlar</source>
+        <target>Medlar</target>
+        <note>Class = "UILabel"; text = "Medlar"; ObjectID = "ubO-9S-2Ae";</note>
+      </trans-unit>
+      <trans-unit id="uez-qm-hj9.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "uez-qm-hj9";</note>
+      </trans-unit>
+      <trans-unit id="uiw-zo-ZiB.text" xml:space="preserve">
+        <source>40g</source>
+        <target>40g</target>
+        <note>Class = "UILabel"; text = "40g"; ObjectID = "uiw-zo-ZiB";</note>
+      </trans-unit>
+      <trans-unit id="ulo-Tn-s96.text" xml:space="preserve">
+        <source>Tangerine juice</source>
+        <target>Tangerine juice</target>
+        <note>Class = "UILabel"; text = "Tangerine juice"; ObjectID = "ulo-Tn-s96";</note>
+      </trans-unit>
+      <trans-unit id="umf-92-B0W.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "umf-92-B0W";</note>
+      </trans-unit>
+      <trans-unit id="usd-84-N8m.text" xml:space="preserve">
+        <source>130ml</source>
+        <target>130ml</target>
+        <note>Class = "UILabel"; text = "130ml"; ObjectID = "usd-84-N8m";</note>
+      </trans-unit>
+      <trans-unit id="uwe-Sr-r8A.text" xml:space="preserve">
+        <source>Caramel with filling</source>
+        <target>Caramel with filling</target>
+        <note>Class = "UILabel"; text = "Caramel with filling"; ObjectID = "uwe-Sr-r8A";</note>
+      </trans-unit>
+      <trans-unit id="uxW-6g-pa9.text" xml:space="preserve">
+        <source>Pancakes (medium)</source>
+        <target>Pancakes (medium)</target>
+        <note>Class = "UILabel"; text = "Pancakes (medium)"; ObjectID = "uxW-6g-pa9";</note>
+      </trans-unit>
+      <trans-unit id="uyp-iC-kvU.text" xml:space="preserve">
+        <source>Squash</source>
+        <target>Squash</target>
+        <note>Class = "UILabel"; text = "Squash"; ObjectID = "uyp-iC-kvU";</note>
+      </trans-unit>
+      <trans-unit id="vGh-vl-Zbl.text" xml:space="preserve">
+        <source>Mulberry</source>
+        <target>Mulberry</target>
+        <note>Class = "UILabel"; text = "Mulberry"; ObjectID = "vGh-vl-Zbl";</note>
+      </trans-unit>
+      <trans-unit id="vMi-tK-0Hx.text" xml:space="preserve">
+        <source>Barley flour</source>
+        <target>Barley flour</target>
+        <note>Class = "UILabel"; text = "Barley flour"; ObjectID = "vMi-tK-0Hx";</note>
+      </trans-unit>
+      <trans-unit id="vQL-Ye-Hy5.text" xml:space="preserve">
+        <source>Хлебные палочки</source>
+        <target>Хлебные палочки</target>
+        <note>Class = "UILabel"; text = "Хлебные палочки"; ObjectID = "vQL-Ye-Hy5";</note>
+      </trans-unit>
+      <trans-unit id="vWs-Qh-mvX.text" xml:space="preserve">
+        <source>Sea buckthorn juice</source>
+        <target>Sea buckthorn juice</target>
+        <note>Class = "UILabel"; text = "Sea buckthorn juice"; ObjectID = "vWs-Qh-mvX";</note>
+      </trans-unit>
+      <trans-unit id="vZH-Mf-jZx.text" xml:space="preserve">
+        <source>16 g</source>
+        <target>16 g</target>
+        <note>Class = "UILabel"; text = "16 g"; ObjectID = "vZH-Mf-jZx";</note>
+      </trans-unit>
+      <trans-unit id="vac-HR-YIa.text" xml:space="preserve">
+        <source>Waffles with fruit and 
+berry fillings</source>
+        <target>Waffles with fruit and 
+berry fillings</target>
+        <note>Class = "UILabel"; text = "Waffles with fruit and \nberry fillings"; ObjectID = "vac-HR-YIa";</note>
+      </trans-unit>
+      <trans-unit id="vfF-Dl-rHh.text" xml:space="preserve">
+        <source>23g</source>
+        <target>23g</target>
+        <note>Class = "UILabel"; text = "23g"; ObjectID = "vfF-Dl-rHh";</note>
+      </trans-unit>
+      <trans-unit id="vnY-yX-eHI.text" xml:space="preserve">
+        <source>Nectarine</source>
+        <target>Nectarine</target>
+        <note>Class = "UILabel"; text = "Nectarine"; ObjectID = "vnY-yX-eHI";</note>
+      </trans-unit>
+      <trans-unit id="vno-1m-UYr.text" xml:space="preserve">
+        <source>Cottage cheese is bold</source>
+        <target>Cottage cheese is bold</target>
+        <note>Class = "UILabel"; text = "Cottage cheese is bold"; ObjectID = "vno-1m-UYr";</note>
+      </trans-unit>
+      <trans-unit id="vt3-fz-VuD.text" xml:space="preserve">
+        <source>Quince juice</source>
+        <target>Quince juice</target>
+        <note>Class = "UILabel"; text = "Quince juice"; ObjectID = "vt3-fz-VuD";</note>
+      </trans-unit>
+      <trans-unit id="vxZ-CA-7UJ.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "vxZ-CA-7UJ";</note>
+      </trans-unit>
+      <trans-unit id="w2C-pD-wsW.text" xml:space="preserve">
+        <source>50g</source>
+        <target>50g</target>
+        <note>Class = "UILabel"; text = "50g"; ObjectID = "w2C-pD-wsW";</note>
+      </trans-unit>
+      <trans-unit id="wAm-1r-5aw.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "wAm-1r-5aw";</note>
+      </trans-unit>
+      <trans-unit id="wEj-I7-VKM.text" xml:space="preserve">
+        <source>JUCES  AND  DRINKS</source>
+        <target>JUCES  AND  DRINKS</target>
+        <note>Class = "UILabel"; text = "JUCES  AND  DRINKS"; ObjectID = "wEj-I7-VKM";</note>
+      </trans-unit>
+      <trans-unit id="wIE-lO-vmu.text" xml:space="preserve">
+        <source>Peach juice</source>
+        <target>Peach juice</target>
+        <note>Class = "UILabel"; text = "Peach juice"; ObjectID = "wIE-lO-vmu";</note>
+      </trans-unit>
+      <trans-unit id="wUv-zh-lEg.text" xml:space="preserve">
+        <source>55g</source>
+        <target>55g</target>
+        <note>Class = "UILabel"; text = "55g"; ObjectID = "wUv-zh-lEg";</note>
+      </trans-unit>
+      <trans-unit id="wWt-O8-AKK.text" xml:space="preserve">
+        <source>Sticks are salty</source>
+        <target>Sticks are salty</target>
+        <note>Class = "UILabel"; text = "Sticks are salty"; ObjectID = "wWt-O8-AKK";</note>
+      </trans-unit>
+      <trans-unit id="wa9-zg-Tdt.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "wa9-zg-Tdt";</note>
+      </trans-unit>
+      <trans-unit id="whc-Gq-xei.text" xml:space="preserve">
+        <source>Rolls the capital</source>
+        <target>Rolls the capital</target>
+        <note>Class = "UILabel"; text = "Rolls the capital"; ObjectID = "whc-Gq-xei";</note>
+      </trans-unit>
+      <trans-unit id="wp4-8V-wDy.text" xml:space="preserve">
+        <source>Zucchini</source>
+        <target>Zucchini</target>
+        <note>Class = "UILabel"; text = "Zucchini"; ObjectID = "wp4-8V-wDy";</note>
+      </trans-unit>
+      <trans-unit id="wvz-P6-R4I.text" xml:space="preserve">
+        <source>Oatmeal flour</source>
+        <target>Oatmeal flour</target>
+        <note>Class = "UILabel"; text = "Oatmeal flour"; ObjectID = "wvz-P6-R4I";</note>
+      </trans-unit>
+      <trans-unit id="x3l-CV-9sA.text" xml:space="preserve">
+        <source>330g</source>
+        <target>330g</target>
+        <note>Class = "UILabel"; text = "330g"; ObjectID = "x3l-CV-9sA";</note>
+      </trans-unit>
+      <trans-unit id="x3l-bA-Fn9.text" xml:space="preserve">
+        <source>Apricots</source>
+        <target>Apricots</target>
+        <note>Class = "UILabel"; text = "Apricots"; ObjectID = "x3l-bA-Fn9";</note>
+      </trans-unit>
+      <trans-unit id="x4I-nv-3SI.text" xml:space="preserve">
+        <source>Marshmallow</source>
+        <target>Marshmallow</target>
+        <note>Class = "UILabel"; text = "Marshmallow"; ObjectID = "x4I-nv-3SI";</note>
+      </trans-unit>
+      <trans-unit id="x35-1T-jOT.text" xml:space="preserve">
+        <source>Galettes</source>
+        <target>Galettes</target>
+        <note>Class = "UILabel"; text = "Galettes"; ObjectID = "x35-1T-jOT";</note>
+      </trans-unit>
+      <trans-unit id="xTu-cW-axd.text" xml:space="preserve">
+        <source>250 ml</source>
+        <target>250 ml</target>
+        <note>Class = "UILabel"; text = "250 ml"; ObjectID = "xTu-cW-axd";</note>
+      </trans-unit>
+      <trans-unit id="xXJ-Op-ike.text" xml:space="preserve">
+        <source>110g</source>
+        <target>110g</target>
+        <note>Class = "UILabel"; text = "110g"; ObjectID = "xXJ-Op-ike";</note>
+      </trans-unit>
+      <trans-unit id="xdC-xm-l8V.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "xdC-xm-l8V";</note>
+      </trans-unit>
+      <trans-unit id="xio-n4-mv6.text" xml:space="preserve">
+        <source>172g</source>
+        <target>172g</target>
+        <note>Class = "UILabel"; text = "172g"; ObjectID = "xio-n4-mv6";</note>
+      </trans-unit>
+      <trans-unit id="xna-o2-bVc.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "xna-o2-bVc";</note>
+      </trans-unit>
+      <trans-unit id="xrL-BQ-5NH.text" xml:space="preserve">
+        <source>Rosehip Juice</source>
+        <target>Rosehip Juice</target>
+        <note>Class = "UILabel"; text = "Rosehip Juice"; ObjectID = "xrL-BQ-5NH";</note>
+      </trans-unit>
+      <trans-unit id="xrX-FL-K93.text" xml:space="preserve">
+        <source>Quince</source>
+        <target>Quince</target>
+        <note>Class = "UILabel"; text = "Quince"; ObjectID = "xrX-FL-K93";</note>
+      </trans-unit>
+      <trans-unit id="xte-Rp-eAL.text" xml:space="preserve">
+        <source>Dried apple</source>
+        <target>Dried apple</target>
+        <note>Class = "UILabel"; text = "Dried apple"; ObjectID = "xte-Rp-eAL";</note>
+      </trans-unit>
+      <trans-unit id="y3X-0c-VO6.text" xml:space="preserve">
+        <source>Хлебные палочки</source>
+        <target>Хлебные палочки</target>
+        <note>Class = "UILabel"; text = "Хлебные палочки"; ObjectID = "y3X-0c-VO6";</note>
+      </trans-unit>
+      <trans-unit id="y5Q-Gj-9cE.text" xml:space="preserve">
+        <source>16 g</source>
+        <target>16 g</target>
+        <note>Class = "UILabel"; text = "16 g"; ObjectID = "y5Q-Gj-9cE";</note>
+      </trans-unit>
+      <trans-unit id="y7e-tv-inf.text" xml:space="preserve">
+        <source>Raspberry juice</source>
+        <target>Raspberry juice</target>
+        <note>Class = "UILabel"; text = "Raspberry juice"; ObjectID = "y7e-tv-inf";</note>
+      </trans-unit>
+      <trans-unit id="y8Y-01-91S.text" xml:space="preserve">
+        <source>Refined sugar</source>
+        <target>Refined sugar</target>
+        <note>Class = "UILabel"; text = "Refined sugar"; ObjectID = "y8Y-01-91S";</note>
+      </trans-unit>
+      <trans-unit id="yFX-fE-enT.text" xml:space="preserve">
+        <source>Sour cream</source>
+        <target>Sour cream</target>
+        <note>Class = "UILabel"; text = "Sour cream"; ObjectID = "yFX-fE-enT";</note>
+      </trans-unit>
+      <trans-unit id="yHw-9X-0oI.text" xml:space="preserve">
+        <source>Common muffin</source>
+        <target>Common muffin</target>
+        <note>Class = "UILabel"; text = "Common muffin"; ObjectID = "yHw-9X-0oI";</note>
+      </trans-unit>
+      <trans-unit id="yPJ-e9-Tt0.text" xml:space="preserve">
+        <source>500ml</source>
+        <target>500ml</target>
+        <note>Class = "UILabel"; text = "500ml"; ObjectID = "yPJ-e9-Tt0";</note>
+      </trans-unit>
+      <trans-unit id="ybm-ij-C5d.text" xml:space="preserve">
+        <source>20 g</source>
+        <target>20 g</target>
+        <note>Class = "UILabel"; text = "20 g"; ObjectID = "ybm-ij-C5d";</note>
+      </trans-unit>
+      <trans-unit id="ycI-XN-aK3.text" xml:space="preserve">
+        <source>150g</source>
+        <target>150g</target>
+        <note>Class = "UILabel"; text = "150g"; ObjectID = "ycI-XN-aK3";</note>
+      </trans-unit>
+      <trans-unit id="ycj-A9-dMb.title" xml:space="preserve">
+        <source>1BU=10-12g of carbohydraytes</source>
+        <target>1BU=10-12g of carbohydraytes</target>
+        <note>Class = "UINavigationItem"; title = "1BU=10-12g of carbohydraytes"; ObjectID = "ycj-A9-dMb";</note>
+      </trans-unit>
+      <trans-unit id="ygT-Hv-QBj.text" xml:space="preserve">
+        <source>45g</source>
+        <target>45g</target>
+        <note>Class = "UILabel"; text = "45g"; ObjectID = "ygT-Hv-QBj";</note>
+      </trans-unit>
+      <trans-unit id="ypr-xn-S6a.text" xml:space="preserve">
+        <source>130ml</source>
+        <target>130ml</target>
+        <note>Class = "UILabel"; text = "130ml"; ObjectID = "ypr-xn-S6a";</note>
+      </trans-unit>
+      <trans-unit id="z5c-UU-K6a.text" xml:space="preserve">
+        <source>300g</source>
+        <target>300g</target>
+        <note>Class = "UILabel"; text = "300g"; ObjectID = "z5c-UU-K6a";</note>
+      </trans-unit>
+      <trans-unit id="z22-pz-ROv.text" xml:space="preserve">
+        <source>Barley groats</source>
+        <target>Barley groats</target>
+        <note>Class = "UILabel"; text = "Barley groats"; ObjectID = "z22-pz-ROv";</note>
+      </trans-unit>
+      <trans-unit id="z51-YP-mSY.text" xml:space="preserve">
+        <source>ALCOHOL</source>
+        <target>ALCOHOL</target>
+        <note>Class = "UILabel"; text = "ALCOHOL"; ObjectID = "z51-YP-mSY";</note>
+      </trans-unit>
+      <trans-unit id="zLK-j8-iez.text" xml:space="preserve">
+        <source>Grape juice</source>
+        <target>Grape juice</target>
+        <note>Class = "UILabel"; text = "Grape juice"; ObjectID = "zLK-j8-iez";</note>
+      </trans-unit>
+      <trans-unit id="zRO-vm-Nxt.text" xml:space="preserve">
+        <source>Radish</source>
+        <target>Radish</target>
+        <note>Class = "UILabel"; text = "Radish"; ObjectID = "zRO-vm-Nxt";</note>
+      </trans-unit>
+      <trans-unit id="zTe-E9-XFH.text" xml:space="preserve">
+        <source>400g</source>
+        <target>400g</target>
+        <note>Class = "UILabel"; text = "400g"; ObjectID = "zTe-E9-XFH";</note>
+      </trans-unit>
+      <trans-unit id="zVu-yG-dZl.text" xml:space="preserve">
+        <source>100ml</source>
+        <target>100ml</target>
+        <note>Class = "UILabel"; text = "100ml"; ObjectID = "zVu-yG-dZl";</note>
+      </trans-unit>
+      <trans-unit id="zc6-dw-X5v.text" xml:space="preserve">
+        <source>25g</source>
+        <target>25g</target>
+        <note>Class = "UILabel"; text = "25g"; ObjectID = "zc6-dw-X5v";</note>
+      </trans-unit>
+      <trans-unit id="zoD-NE-7Vf.text" xml:space="preserve">
+        <source>20g</source>
+        <target>20g</target>
+        <note>Class = "UILabel"; text = "20g"; ObjectID = "zoD-NE-7Vf";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="diabetanduglevod/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>diabetanduglevod</source>
+        <target>diabetanduglevod</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>diabetanduglevod</source>
+        <target>diabetanduglevod</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
